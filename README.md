@@ -1,4 +1,9 @@
+#Tree of Saviro Arabic - مشروع ترجمة لعبة
 ##NOTICE (Updated 18-03-2016)
+
+تجاهلو الكلام إلى تحت لني سحب ملف الريد مي من اللعبة الرسمية ولكن وضعتها حتى تكون كـ نوع من انواع المساعدة<br>
+لنا عندهم ويكي ولكن مع مرور الوقت راح اعدل ملف الريد مي ولكن مؤقتاً راح اترك الامر كما هو.
+
 <br>
 **Announcing Contributor Benefits** <br>
 
@@ -33,7 +38,7 @@ UPDATE : If you believe that you've met the requirements, please contact us by M
 **GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
 
-You may check the list of those who qualify for the Beta Keys [**HERE**](https://github.com/Treeofsavior/EnglishTranslation/issues/1266)
+
 
 Thank you and please continue to send us your support and interest for Tree of Savior.
 
@@ -45,7 +50,7 @@ Thank you and please continue to send us your support and interest for Tree of S
 
 4. Please use the latest file version before editing the translations 
 
-5. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
+5. Have you checked out our official Arabic Forums? Click [**HERE**](https://forum.tersnetwork.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
 
 6. Scroll down for a preview of how real-time translation works in game! 
 
