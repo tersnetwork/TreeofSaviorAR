@@ -12,7 +12,7 @@ http://up2.tersnetwork.com/do.php?id=339<br>
 
 <br>
 http://forum.tersnetwork.com - منتدى شبكة ترس<br>
-http://tos.tersnetwork.com - موسوعة شجرة المخلص العربية
+http://tos.tersnetwork.com/term - موسوعة شجرة المخلص العربية
 
 <br>
 **Announcing Contributor Benefits** <br>
