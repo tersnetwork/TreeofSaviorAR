@@ -11,6 +11,10 @@ http://up2.tersnetwork.com/do.php?id=339<br>
 ![تدوين](http://up2.tersnetwork.com/do.php?img=2776)
 
 <br>
+http://forum.tersnetwork.com - منتدى شبكة ترس<br>
+http://tos.tersnetwork.com - موسوعة شجرة المخلص العربية
+
+<br>
 **Announcing Contributor Benefits** <br>
 
 We are proud to announce some plans we have planned to show our gratitude to our contributors that helped bring the game to all of you. Don't worry if you didn't get a chance to help us out before because you can start contributing now!
