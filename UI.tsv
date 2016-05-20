@@ -31,12 +31,12 @@ UI_20150317_000030	{@st43b}Buy Now!{nl}{img icon_item_silver 20 20}{@st57}%s{/}
 UI_20150317_000031	{@st44}Permission Settings{/}
 UI_20150317_000032	{@st45}Name: %s{/}
 UI_20150317_000033	{@st45}Party Storage{/}
-UI_20150317_000034	{@st49}None
+UI_20150317_000034	{@st49}ﺀﻲﺷﻻ
 UI_20150317_000035	{@st49}Store
 UI_20150317_000036	{@st49}Retrieve
 UI_20150317_000037	{@st45}Survey{/}
 UI_20150317_000038	{@st49}Create
-UI_20150317_000039	{@st49}Delete
+UI_20150317_000039	{@st49}ﻑﺬﺣ
 UI_20150317_000040	{@st44}Save{/}
 UI_20150317_000041	{@st44}Cancel{/}
 UI_20150317_000042	{@st43}{s22}Hairstyle Shop{/}
