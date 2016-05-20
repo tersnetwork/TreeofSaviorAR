@@ -53,7 +53,7 @@ UI_20150317_000052	{@st59}ﺔﻴﻟﺎﺘﻟﺍ ﺔﺤﻔﺼﻟﺍ{/}
 UI_20150317_000053	{@st47}%s ﺮﻬﺿ!
 UI_20150317_000054	{@st43}ﺔﺠﻴﺘﻧ{/}
 UI_20150317_000055	ﻰﻘﻠﺘُﻤﻟﺍ ﺭﺮﻀﻟﺍ
-UI_20150317_000056	Technique Bonus
+UI_20150317_000056	ﺔﻴﻨﻘﺘﻟﺍ ﺓﻭﻼﻋ
 UI_20150317_000057	ﻱﺩﺎﻔﺘﻟﺍ ﺓﻭﻼﻋ
 UI_20150317_000058	ﺀﻼﺧﻹﺍ ﺖﻗﻭ
 UI_20150317_000059	ﺔﻴﻟﺎﻤﺟﻹﺍ ﺔﺠﻴﺘﻨﻟﺍ
@@ -75,117 +75,117 @@ UI_20150317_000074	ﻲﻘﻠُﻳ
 UI_20150317_000075	{@st43}ﺔﺒﻌﻠﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ{/}
 UI_20150317_000076	{@st64}ﺓﺮﺠﺤﻟﺍ ﺭﺎﻴﺘﺧﻷ ﻢﻬﺳﻷﺍ ﺭﺍﺯﺃ ﻞﻤﻌﺘﺳﺇ!
 UI_20150317_000077	{@st43}ﻡُﺪﻘﺘﻟﺍ ﺕﺎﻣﻮﻠﻌﻣ {/}
-UI_20150317_000078	{@st43}ﻞﺼﻓ ﺮﺘﺧﺇ
-UI_20150317_000079	Psychokinesist
-UI_20150317_000080	{@st42}%s Circle {/}
-UI_20150317_000081	How many circles
-UI_20150317_000082	Displays a brief description of the class.
-UI_20150317_000083	{@st41b}Attack {@sti7}%s{/}
-UI_20150317_000084	{@st41b}Support {@sti7}%s{/}
-UI_20150317_000085	{@st41b}Difficulty{@sti7}%s{/}
-UI_20150317_000086	{@st59}Close{/}
-UI_20150317_000087	Advancement Alarm
-UI_20150317_000088	{@st43} Advancement
-UI_20150317_000089	{@sti7}{s14} Character {/}
-UI_20150317_000090	{@sti8}{s14} Class {/}
-UI_20150317_000091	{@st44}Chat{/}
+UI_20150317_000078	{@st43}ﺺﺼﺨﺗ ﺮﺘﺧﺇ
+UI_20150317_000079	ﻲﻠﻘﻌﻟﺍ ﻚﻳﺮﺤﺘﻟﺍ
+UI_20150317_000080	{@st42}%s ﺓﺮﺋﺍﺩ {/}
+UI_20150317_000081	ﺓﺮﺋﺍﺩ ﻢﻛ
+UI_20150317_000082	ﺺﺼﺨﺘﻟﺍ ﻒﺻﻭ ﺰﺟﻮﻣ ﺽﺮﻌﻳ.
+UI_20150317_000083	{@st41b}ﻡﻮﺠﻫ {@sti7}%s{/}
+UI_20150317_000084	{@st41b}ﻢﻋﺩ {@sti7}%s{/}
+UI_20150317_000085	{@st41b}ﺔﺑﻮﻌﺼﻟﺍ{@sti7}%s{/}
+UI_20150317_000086	{@st59}ﻕﻼﻏﺇ{/}
+UI_20150317_000087	ﻡﺪﻘﺘﻟﺍ ﺭﺍﺬﻧﺇ
+UI_20150317_000088	{@st43} ﻡﺪﻘﺘﻟﺍ
+UI_20150317_000089	{@sti7}{s14} ﺔﻴﺼﺨﺸﻟﺍ {/}
+UI_20150317_000090	{@sti8}{s14} ﺺﺼﺨﺗ {/}
+UI_20150317_000091	{@st44}ﺔﺛﺩﺎﺤﻤﻟﺍ{/}
 UI_20150317_000092	To. WWWWWWWW and 1 other
 UI_20150317_000093	General: /s chat {nl} Shout: /y chat {nl} Party: /p chat{nl} Whisper: /w character's username chat
-UI_20150317_000094	{@st41}All Chat{/}
-UI_20150317_000095	{@59}Quit{/}
-UI_20150317_000096	{@59}Invite{/}
-UI_20150317_000097	{@st59}All{/}
-UI_20150317_000098	{@st59}Normal (/s chat){/}
-UI_20150317_000099	{@st59}Shout (/y chat){/}
-UI_20150317_000100	{@st59}Party (/p chat){/}
-UI_20150317_000101	{@st59}Whisper (/w team name chat){/}
-UI_20150317_000102	{@st59}Adjust Chat Window{/}
+UI_20150317_000094	{@st41}ﺔﺛﺩﺎﺤﻤﻟﺍ ﺔﻓﺎﻛ{/}
+UI_20150317_000095	{@59}ﺭِﺩﺎﻏ{/}
+UI_20150317_000096	{@59}ﺓﻮﻋﺩ{/}
+UI_20150317_000097	{@st59}ﺔﻓﺎﻛ{/}
+UI_20150317_000098	{@st59}ﻱﺩﺎﻋ (/s chat){/}
+UI_20150317_000099	{@st59}ﺔﻘﻄﻨﻣ (/y chat){/}
+UI_20150317_000100	{@st59}ﻖﻳﺮﻓ (/p chat){/}
+UI_20150317_000101	{@st59}ﺲﻤﻫ (/w team name chat){/}
+UI_20150317_000102	{@st59}ﺔﺛﺩﺎﺤﻤﻟﺍ ﺓﺬﻓﺎﻧ ﻂﺒﺿ{/}
 UI_20150317_000103	{@st43}{s22}Chat Macro{/}
 UI_20150317_000104	{@st43}Macro{/}
 UI_20150317_000105	{@st59b}Macro {nl} {@st59s} - How to use: {nl} 1. Drag a gesture icon to any gesture slots at the bottom. {nl} 2. Write your phrase and save. {nl} 3. Use the shortcut key to simultaneously use the phrase and make the gesture. {/}
-UI_20150317_000106	{@st59}Close{/}
-UI_20150317_000107	{@st41b}Save{/}
-UI_20150317_000108	{@st59}Save{/}
-UI_20150317_000109	{@st41b}Cancel{/}
-UI_20150317_000110	{@st59}Cancel{/}
-UI_20150317_000111	{@st42}Chat Settings
-UI_20150317_000112	{@st42}Transparency
+UI_20150317_000106	{@st59}ﻕﻼﻏﺇ{/}
+UI_20150317_000107	{@st41b}ﻆﻔﺣ{/}
+UI_20150317_000108	{@st59}ﻆﻔﺣ{/}
+UI_20150317_000109	{@st41b}ﺀﺎﻐﻟﺇ{/}
+UI_20150317_000110	{@st59}ﺀﺎﻐﻟﺇ{/}
+UI_20150317_000111	{@st42}ﺔﺛﺩﺎﺤﻤﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ
+UI_20150317_000112	{@st42}ﺔﻴﻓﺎﻔﺸﻟﺍ
 UI_20150317_000113	Show Chat Balloon
 UI_20150317_000114	Show Shouts on Top
 UI_20150317_000115	{@st43}Cheat List{/}
-UI_20150317_000116	{@st42b}Item{/}
-UI_20150317_000117	{@st42b}Monster{/}
-UI_20150317_000118	{@st42b}Move map{/}
+UI_20150317_000116	{@st42b}ﺓﺍﺩﺍ{/}
+UI_20150317_000117	{@st42b}ﺶﺣﻭ{/}
+UI_20150317_000118	{@st42b}ﺔﻄﻳﺮﺨﻟﺍ ﻚﻳﺮﺤﺗ{/}
 UI_20150317_000119	{@st42b}Combat Order{/}
-UI_20150317_000120	{@st41b}Close{/}
-UI_20150317_000121	{s16}{b}Create items by clicking on the Create button or double-click.
+UI_20150317_000120	{@st41b}ﻕﻼﻏﺇ{/}
+UI_20150317_000121	{s16}{b}ﻦﻴﺗﺮﻣ ﺮﻘﻨﻟﺍ ﻭﺍ ﺀﺎﺸﻧﺍ ﺭﺯ ﻰﻠﻋ ﻂﻐﻀﻟﺍ ﺮﺒﻋ ﺕﺍﻭﺩﺍ ﺀﺎﺸﻧﺇ.
 UI_20150317_000122	{s16}{b}ea
 UI_20150317_000123	{s16}{b}Lv.
-UI_20150317_000124	{@st41b}Search{/}
-UI_20150317_000125	{s16}{b}Summon monsters by clicking on the Create button or double-click.
+UI_20150317_000124	{@st41b}ﺚﺤﺑ{/}
+UI_20150317_000125	{s16}{b}إستدعاء الوحوش عبر الضغط على زر انشاء أو النقر مرتين.
 UI_20150317_000126	{s16}{b}ea
-UI_20150317_000127	{s16}{b}Select a desired area.
-UI_20150317_000128	{s18}{b}View Minimap{/}
-UI_20150317_000129	{@st41b}Tool List{/}
-UI_20150317_000130	{@st59b}Collection {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}
-UI_20150317_000131	{@st59}Close{/}
-UI_20150317_000132	{@st43}Collection{/}
-UI_20150317_000133	{@st43}Color Spray{/}
-UI_20150317_000134	{@st49}Color Spray{/}
-UI_20150317_000135	{@st49}Color{/}
-UI_20150317_000136	{@st49}Remaining{/}
-UI_20150317_000137	{@st49}Brush{/}
+UI_20150317_000127	{s16}{b}ﺔﺑﻮﻏﺮﻤﻟﺍ ﺔﻘﻄﻨﻤﻟﺍ ﺮﺘﺧﺇ.
+UI_20150317_000128	{s18}{b}ﺓﺮﻐﺼﻤﻟﺍ ﺔﻄﻳﺮﺨﻟﺍ ﺭﺎﻬﺿﺇ{/}
+UI_20150317_000129	{@st41b}ﺓﺍﺩﻻﺍ ﺔﺤﺋﻻ{/}
+UI_20150317_000130	{@st59b}ﺔﻋﻮﻤﺠﻣ {nl}{@st59s}- Purchase the Collection Deck to add collectible items to your collection. {nl} - The collection hotkey will be enabled when you use the Collection Deck Item. {nl} {/}
+UI_20150317_000131	{@st59}ﻕﻼﻏﺇ{/}
+UI_20150317_000132	{@st43}ﺔﻋﻮﻤﺠﻣ{/}
+UI_20150317_000133	{@st43}ﻥﻮﻠﻟﺍ ﺫﺍﺫﺭ{/}
+UI_20150317_000134	{@st49}ﻥﻮﻠﻟﺍ ﺫﺍﺫﺭ{/}
+UI_20150317_000135	{@st49}ﻥﻮﻟ{/}
+UI_20150317_000136	{@st49}ﻲﻘﺒﺘﻤﻟﺍ{/}
+UI_20150317_000137	{@st49}ﺔﺷﺮﻓ{/}
 UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Draw{/}{/}
 UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Save{/}{/}
 UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Import{/}{/}
-UI_20150317_000141	{@st49}Close{/}
+UI_20150317_000141	{@st49}ﻕﻼﻏﺇ{/}
 UI_20150317_000142	{@st43}Companion Adoption
 UI_20150317_000143	{@st59}Enter the name of your newly adopted companion {/}
-UI_20150317_000144	{@st41b}Name{/}
-UI_20150317_000145	{@st41b}Price %s{/}
-UI_20150317_000146	{@st59}Close{/}
+UI_20150317_000144	{@st41b}ﻢﺳﺇ{/}
+UI_20150317_000145	{@st41b}ﺮﻌﺳ %s{/}
+UI_20150317_000146	{@st59}ﻕﻼﻏﺇ{/}
 UI_20150317_000147	{@st41b}Adopt
-UI_20150317_000148	{@st59}Confirm{/}
+UI_20150317_000148	{@st59}ﺪﻴﻛﺄﺗ{/}
 UI_20150317_000149	{@st43}Companion Shop
-UI_20150317_000150	{@st59}Close{/}
+UI_20150317_000150	{@st59}ﻕﻼﻏﺇ{/}
 UI_20150317_000151	{@st43}Other Character Info{/}{@st42}
-UI_20150317_000152	{@st59}Close{/}
-UI_20150317_000153	{@st41b}Information
-UI_20150317_000154	{@st41b}Record
-UI_20150317_000155	Team Name
-UI_20150317_000156	Character Name
-UI_20150317_000157	Circle {#ffff00}%s{/} %s Lv. {#ffff00}%s{/}
-UI_20150317_000158	Warrior
+UI_20150317_000152	{@st59}ﻕﻼﻏﺇ{/}
+UI_20150317_000153	{@st41b}ﺔﻣﻮﻠﻌﻣ
+UI_20150317_000154	{@st41b}ﻞﺠﺳ
+UI_20150317_000155	ﻖﻳﺮﻔﻟﺍ ﻢﺳﺇ
+UI_20150317_000156	ﺔﻴﺼﺨﺸﻟﺍ ﻢﺳﺇ
+UI_20150317_000157	ﺓﺮﺋﺍﺩ {#ffff00}%s{/} %s Lv. {#ffff00}%s{/}
+UI_20150317_000158	ﺏﺭﺎﺤﻣ
 UI_20150317_000159	Adventure Index {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)
 UI_20150317_000160	Adventure Index {#ffff00}%s{/} ({#ffff00}Unranked{/})
-UI_20150317_000161	Total Achievements : {#ffff00}%s{/}
-UI_20150317_000162	Settings
+UI_20150317_000161	ﺕﺍﺯﺎﺠﻧﻹﺍ ﻉﻮﻤﺠﻣ : {#ffff00}%s{/}
+UI_20150317_000162	ﺕﺍﺩﺍﺪﻋﻹﺍ
 UI_20150317_000163	Clear the tab title to delete the tab.
-UI_20150317_000164	{@st49}All{/}
-UI_20150317_000165	{@st49}System{/}
-UI_20150317_000166	{@st49}Talk{/}
-UI_20150317_000167	{@st49}Combat{/}
-UI_20150317_000168	{@st49}Item{/}
+UI_20150317_000164	{@st49}ﺔﻓﺎﻛ{/}
+UI_20150317_000165	{@st49}ﻡﺎﻀِﻧ{/}
+UI_20150317_000166	{@st49}ﺙﺪﺤﺗ{/}
+UI_20150317_000167	{@st49}ﺔﻛﺮﻌﻣ{/}
+UI_20150317_000168	{@st49}ﺓﺍﺩﺃ{/}
 UI_20150317_000169	{@st43}Credits{/}
 UI_20150317_000170	{@st43}Lock Target settings {/}
 UI_20150317_000171	NPC Name
-UI_20150317_000172	Compare
+UI_20150317_000172	ﺔﻧﺭﺎﻘﻣ
 UI_20150317_000173	Illustration
-UI_20150317_000174	Select a conversation
+UI_20150317_000174	ﺔﺛﺩﺎﺤﻣ ﺮﺘﺧﺇ
 UI_20150317_000175	Text Help
 UI_20150317_000176	{@st41}Item Crafting{/}
 UI_20150317_000177	{@st45tw2}Crafting the item...
-UI_20150317_000178	%r seconds
+UI_20150317_000178	%r ﻲﻧﺍﻮﺛ
 UI_20150317_000179	{@st41}Cancel{/}
-UI_20150317_000180	{@st45tw2}Quantity{/}
+UI_20150317_000180	{@st45tw2}ﺔﻴﻤﻛ{/}
 UI_20150317_000181	{@st45tw2}Do you want to craft this item?
-UI_20150317_000182	{@st41}Confirm{/}
-UI_20150317_000183	Quest Information
+UI_20150317_000182	{@st41}ﺪﻴﻛﺄﺗ{/}
+UI_20150317_000183	ﺔﻤﻬﻤﻟﺍ ﺕﺎﻣﻮﻠﻌﻣ
 UI_20150317_000184	{@st59}Cancel Trade{/}
 UI_20150317_000185	{@st43}Personal Trade{/}
 UI_20150317_000186	My Trading List
-UI_20150317_000187	Silver : %s
-UI_20150317_000188	Enter
+UI_20150317_000187	ﺔﻀﻓ : %s
+UI_20150317_000188	ﻝﻮﺧﺩ
 UI_20150317_000189	{@st41}Accept
 UI_20150317_000190	{@st41}Confirm
 UI_20150317_000191	Other Player's (%s) Trading List
@@ -199,53 +199,53 @@ UI_20150317_000198	{s20}{ol}The game will begin after 1 second.
 UI_20150317_000199	{s20}{ol}The game will begin after %s seconds.
 UI_20150317_000200	Do not show this anymore for today.
 UI_20150317_000201	Do not show Field Events.
-UI_20150317_000202	Join Game
+UI_20150317_000202	ﺔﺒﻌﻠﻟ ﻢﻀﻧﺇ
 UI_20150317_000203	Start a game with other players.
 UI_20150317_000204	Decline game invite.
 UI_20150317_000205	Spray Presets
-UI_20150317_000206	{@st49}Select{/}
-UI_20150317_000207	{@st49}Cancel{/}
-UI_20150317_000208	{@st49}Delete{/}
+UI_20150317_000206	{@st49}ﺪﻳﺪﺤﺗ{/}
+UI_20150317_000207	{@st49}ﺀﺎﻐﻟﺇ{/}
+UI_20150317_000208	{@st49}ﻑﺬﺣ{/}
 UI_20150317_000209	Enter a file name to save.
-UI_20150317_000210	{@st43}Friends
-UI_20150317_000211	{@st59}Close{/}
+UI_20150317_000210	{@st43}ﺀﺎﻗِﺪﺻﺃ
+UI_20150317_000211	{@st59}ﻕﻼﻏﺇ{/}
 UI_20150317_000212	{@st59b}Friends{nl}{@st59s} - Become friends with other players in the game. {nl} - You can check the status of your friends through the Friends List tab. {nl} - In the Manage tab, you can invite, decline or block your friends. {/}
 UI_20150317_000213	{@st41b}Show Online{/}
-UI_20150317_000214	{@st41b}List
-UI_20150317_000215	{@st41b}Manage
-UI_20150317_000216	{@st41b}Send Friend Request
-UI_20150317_000217	{@st41b}Block
-UI_20150317_000218	{@st59}Search{/}
-UI_20150317_000219	{@st44}Guild{/}
-UI_20150317_000220	Guild
-UI_20150317_000221	List
-UI_20150317_000222	News
-UI_20150317_000223	Guild Mission
-UI_20150317_000224	Members Online
-UI_20150317_000225	{@st44}Create Guild{/}
-UI_20150317_000226	{@st42}Create{/}
-UI_20150317_000227	{@st42}Close{/}
-UI_20150317_000228	{@st42}All{/}
-UI_20150317_000229	{@st42}Today's Rankings{/}
-UI_20150317_000230	{@st42}Weekly Rankings{/}
-UI_20150317_000231	{@st56}Rank {/}
-UI_20150317_000232	{@st56}Points{/}
-UI_20150317_000233	{@st56}Class{/}
-UI_20150317_000234	{@st56}Name {/}
-UI_20150317_000235	Previous Page
-UI_20150317_000236	Next Page
+UI_20150317_000214	{@st41b}ﺔﺤﺋﻻ
+UI_20150317_000215	{@st41b}ﺓﺭﺍﺩﺇ
+UI_20150317_000216	{@st41b}ﺔﻗﺍﺪﺻ ﺐﻠﻃ ﻝﺎﺳﺭﺇ
+UI_20150317_000217	{@st41b}ﺮﻈﺣ
+UI_20150317_000218	{@st59}ﺚﺤﺑ{/}
+UI_20150317_000219	{@st44}ﺔﺒﻴﺘﻛ{/}
+UI_20150317_000220	ﺔﺒﻴﺘﻛ
+UI_20150317_000221	ﺔﺤﺋﻻ
+UI_20150317_000222	ﺭﺎﺒﺧﺃ
+UI_20150317_000223	ﺔﺒﻴﺘﻜﻟﺍ ﺔﻤﻬﻣ
+UI_20150317_000224	ﻦﻴﻠﺼﺘﻤﻟﺍ ﺀﺎﻀﻋﻷﺍ
+UI_20150317_000225	{@st44}ﺔﺒﻴﺘﻛ ﺀﺎﺸﻧﺇ{/}
+UI_20150317_000226	{@st42}ﺀﺎﺸﻧﺇ{/}
+UI_20150317_000227	{@st42}ﻕﻼﻏﺇ{/}
+UI_20150317_000228	{@st42}ﺔﻓﺎﻛ{/}
+UI_20150317_000229	{@st42}ﻡﻮﻴﻟﺍ ﺐﻴﺗﺮﺗ{/}
+UI_20150317_000230	{@st42}ﻉﻮﺒﺳﻷﺍ ﺐﻴﺗﺮﺗ{/}
+UI_20150317_000231	{@st56}ﺔﺒﺗﺭ {/}
+UI_20150317_000232	{@st56}ﻁﺎﻘﻧ{/}
+UI_20150317_000233	{@st56}ﺺﺼﺨﺗ{/}
+UI_20150317_000234	{@st56}ﻢﺳﺇ {/}
+UI_20150317_000235	ﺔﻴﻟﺎﺤﻟﺍ ﺔﺤﻔﺼﻟﺍ
+UI_20150317_000236	ﺔﻴﻟﺎﺘﻟﺍ ﺔﺤﻔﺼﻟﺍ
 UI_20150317_000237	{@st42}Search ID{/}
 UI_20150317_000238	Enter the ID to search
 UI_20150317_000239	Close the Hall of Fame
 UI_20150317_000240	Enter the ID to search
-UI_20150317_000241	{@st59} Stamina {/}
-UI_20150317_000242	{@st43}Help List{/}
-UI_20150317_000243	{@st59}Close{/}
-UI_20150317_000244	{@st59b}Help List{nl}{@st59s} - If you need help with something, you can always read the Help Topics. {nl} - Select a topic to view more information about it. {/}
-UI_20150317_000245	{@st43}{s22}Help{/}
-UI_20150317_000246	{@st47_b}{b}Help Topics{/}
+UI_20150317_000241	{@st59} ﻁﺎﺸﻨﻟﺍ {/}
+UI_20150317_000242	{@st43}ﺓﺪﻋﺎﺴﻤﻟﺍ ﺔﺤﺋﻻ{/}
+UI_20150317_000243	{@st59}ﻕﻼﻏﺇ{/}
+UI_20150317_000244	{@st59b}ﺓﺪﻋﺎﺴﻤﻟﺍ ﺔﺤﺋﻻ{nl}{@st59s} - If you need help with something, you can always read the Help Topics. {nl} - Select a topic to view more information about it. {/}
+UI_20150317_000245	{@st43}{s22}ﺓﺪﻋﺎﺴﻣ{/}
+UI_20150317_000246	{@st47_b}{b}ﺓﺪﻋﺎﺴﻤﻟﺍ ﻊﻴﺿﺍﻮﻣ{/}
 UI_20150317_000247	{@st42b}Simple Help Contents{/}
-UI_20150317_000248	{@st59}View details{/}
+UI_20150317_000248	{@st59}ﻞﻴﺻﺎﻔﺘﻟﺍ ﺭﺎﻬﺿﺇ{/}
 UI_20150317_000249	Please enter a quantity
 UI_20150317_000250	{@st59}Enter the contents{/}
 UI_20150317_000251	{@st41b}Confirm
