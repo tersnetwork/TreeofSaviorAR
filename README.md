@@ -8,7 +8,9 @@
 http://up2.tersnetwork.com/do.php?id=339<br>
 لنا اللعبة تحتاج إلى عكس الحروف باستخدام تدوين اكتب النص في البرنامج ثم نسخ ولصق.<br>
 ![تدوين](http://up2.tersnetwork.com/do.php?img=2776)
-
+<br>
+##شرح على اليوتيوب كيف المساعدة في الترجمة
+https://www.youtube.com/watch?v=HGOmxpoJ80E
 <br>
 http://forum.tersnetwork.com - منتدى شبكة ترس<br>
 http://tos.tersnetwork.com/term - موسوعة شجرة المخلص العربية
