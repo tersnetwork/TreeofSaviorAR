@@ -244,32 +244,32 @@ UI_20150317_000243	{@st59}ﻕﻼﻏﺇ{/}
 UI_20150317_000244	{@st59b}ﺓﺪﻋﺎﺴﻤﻟﺍ ﺔﺤﺋﻻ{nl}{@st59s} - If you need help with something, you can always read the Help Topics. {nl} - Select a topic to view more information about it. {/}
 UI_20150317_000245	{@st43}{s22}ﺓﺪﻋﺎﺴﻣ{/}
 UI_20150317_000246	{@st47_b}{b}ﺓﺪﻋﺎﺴﻤﻟﺍ ﻊﻴﺿﺍﻮﻣ{/}
-UI_20150317_000247	{@st42b}Simple Help Contents{/}
+UI_20150317_000247	{@st42b}ﺔﻄﻴﺴﺑ ﺓﺪﻋﺎﺴﻣ ﺕﺎﻳﻮﺘﺤﻣ{/}
 UI_20150317_000248	{@st59}ﻞﻴﺻﺎﻔﺘﻟﺍ ﺭﺎﻬﺿﺇ{/}
-UI_20150317_000249	Please enter a quantity
-UI_20150317_000250	{@st59}Enter the contents{/}
-UI_20150317_000251	{@st41b}Confirm
-UI_20150317_000252	{@st59}Confirm {/}
-UI_20150317_000253	{@st41b}Close
-UI_20150317_000254	{@st59}Cancel {/}
-UI_20150317_000255	{@st43}Warp{/}
-UI_20150317_000256	{@st59}Close{/}
-UI_20150317_000257	{@st59b}Warp{nl}{@st59s} - Allows you to quickly travel to regions you have already visited. {nl} - Feature is activated when two or more warp points are available. {nl} {/}
+UI_20150317_000249	ﺔﻴﻤﻛ ﻝﺎﺧﺩﺇ ﺀﺎﺟﺮﻟﺍ
+UI_20150317_000250	{@st59}ﺕﺎﻳﻮﺘﺤﻤﻟﺍ ﻞِﺧﺩﺃ{/}
+UI_20150317_000251	{@st41b}ﺪﻴﻛﺄﺗ
+UI_20150317_000252	{@st59}ﺪﻴﻛﺄﺗ {/}
+UI_20150317_000253	{@st41b}ﻕﻼﻏﺇ
+UI_20150317_000254	{@st59}ﺀﺎﻐﻟﺇ {/}
+UI_20150317_000255	{@st43}ﻝﺎﻘﺘﻧﺇ{/}
+UI_20150317_000256	{@st59}ﻕﻼﻏﺇ{/}
+UI_20150317_000257	{@st59b}ﻝﺎﻘﺘﻧﺇ{nl}{@st59s} - Allows you to quickly travel to regions you have already visited. {nl} - Feature is activated when two or more warp points are available. {nl} {/}
 UI_20150317_000258	{@st41}Current Location : %s{/}
-UI_20150317_000259	{@st43}{s22}Warp{/}
-UI_20150317_000260	{@st41b}Do you want to move to this area?{/}
+UI_20150317_000259	{@st43}{s22}ﻝﺎﻘﺘﻧﺇ{/}
+UI_20150317_000260	{@st41b}ﺔﻘﻄﻨﻤﻟﺍ ﺓﺬﻫ ﻰﻟﺇ ﻙﺮﺤﺘﻟﺍ ﺪﻳﺮﺗ ﻞﻫ?{/}
 UI_20150317_000261	What about Siauliai
-UI_20150317_000262	Coin Consumed : 0
+UI_20150317_000262	ﺔﻜﻠﻬﺘﺴُﻣ ﺩﻮﻘﻧ : 0
 UI_20150317_000263	Intro
-UI_20150317_000264	{@st43}Inventory{/}
-UI_20150317_000265	{@st59}Close{/}
+UI_20150317_000264	{@st43}ﺔﺒﻴﻘﺣ{/}
+UI_20150317_000265	{@st59}ﻕﻼﻏﺇ{/}
 UI_20150317_000266	{@st59b}Equipment {nl} {@st59s}- Hair/Costume: Equipment to change a characters appearance. {nl} - Weapon: Can equip one-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with a one-handed weapon) {nl} - Armor: Top, Bottom, Gloves, Shoes. {nl} - Accessories: Can equip 1 Necklace and 2 Bracelets. {nl} {/}
 UI_20150317_000267	{@st59}Hair Costume 1{/}
 UI_20150317_000268	{@st59}Hair Costume 2{/}
-UI_20150317_000269	{@st59}Necklace{/}
+UI_20150317_000269	{@st59}ﺓﺩﻼﻗ{/}
 UI_20150317_000270	{@st59}Costume{/}
 UI_20150317_000271	{@st59}Top{/}
-UI_20150317_000272	{@st59}Gloves{/}
+UI_20150317_000272	{@st59}ﺕﺍﺯﺎﻔﻗ{/}
 UI_20150317_000273	{@st59}Bottom{/}
 UI_20150317_000274	{@st59}Shoes{/}
 UI_20150317_000275	{@st59}Left hand{/}
