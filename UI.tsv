@@ -280,15 +280,15 @@ UI_20150317_000279	{@st59}Armband{/}
 UI_20150317_000280	{@st59}Search{/}
 UI_20150317_000281	Weight
 UI_20150317_000282	{@st43}Equipment Buff{/}
-UI_20150317_000283	{@st59}Close{/}
+UI_20150317_000283	{@st59}ﻖﻠﻏﺃ{/}
 UI_20150317_000284	{@st42}Available for Buff
 UI_20150317_000285	{@st42}Consume{/}
 UI_20150317_000286	{@st42}Run
 UI_20150317_000287	{@st42}Target Item{/}
-UI_20150317_000288	{@st59}Ring 1{/}
+UI_20150317_000288	{@st59}ﻢﺗﺎﺧ 1{/}
 UI_20150317_000289	{@st43}Item Crafting{/}
 UI_20150317_000290	{@st42b}Show Craftable Items{/}
-UI_20150317_000291	{@st59}Close{/}
+UI_20150317_000291	{@st59}ﻖﻠﻏﺃ{/}
 UI_20150317_000292	{@st43}{s22}Split Item
 UI_20150317_000293	{@st59}Enter a quantity{/}
 UI_20150317_000294	Monster HP Bar
@@ -296,9 +296,9 @@ UI_20150317_000295	{@st44}Item Set acquired{/}
 UI_20150317_000296	Keyboard Warrior
 UI_20150317_000297	Kills
 UI_20150317_000298	99 minutes 99 seconds
-UI_20150317_000299	38000 points
+UI_20150317_000299	38000 ﻁﺎﻘﻧ
 UI_20150317_000300	Enhanced Speed Potion
-UI_20150317_000301	{@st41}Confirm{/}
+UI_20150317_000301	{@st41}ﺪﻴﻛﺄﺗ{/}
 UI_20150317_000302	{@st59b} Adventure Journal {nl}{@st59s}- Your game progress is recorded in the Adventure Journal. {nl} - You can progress your Adventure Index through contents such as: obtaining items, hunting monsters, crafting and map exploration.{nl}    Adventure Index : The total of all your indexes. {nl}    Growth : 5 points per character level and class level {nl}    Items : Equipment : grade X 10 points, Books : 10 points, Others : 1 point {nl}    Monsters : 10 points per monster (50 points for Boss Monsters) {nl}    Maps : 1 point per 10% explored {nl}    Quests : 1 point per quest {nl}    Achievements : Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : 5 points for a deck and 45 points when it is completed {nl} - You can receive special rewards from an NPC in town depending on your Adventure Index. {/}
 UI_20150317_000303	{@sti7}{s22}{ds}Achievements{/}
 UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Points{/}
@@ -307,8 +307,8 @@ UI_20150317_000306	1st / %s Points
 UI_20150317_000307	Rank %s
 UI_20150317_000308	%s Points
 UI_20150317_000309	Profession
-UI_20150317_000310	Team
-UI_20150317_000311	{@st59}Close{/}
+UI_20150317_000310	ﻖﻳﺮﻓ
+UI_20150317_000311	{@st59}ﻖﻠﻏﺃ{/}
 UI_20150317_000312	{@st43}Adventure Journal Ranking{/}
 UI_20150317_000313	{@st43}{s22}Rank   
 UI_20150317_000314	{@st43}{s22}Name
@@ -327,26 +327,26 @@ UI_20150317_000326	Defense
 UI_20150317_000327	Magic Resistance
 UI_20150317_000328	Critical Attack Rate
 UI_20150317_000329	{@st43}Socket{/}
-UI_20150317_000330	{@st59}Close{/}
+UI_20150317_000330	{@st59}ﻖﻠﻏﺃ{/}
 UI_20150317_000331	Please insert your items
 UI_20150317_000332	Potential
 UI_20150317_000333	Additional Socket Cost : {#ff9933}%s{/}{nl}Gem Extraction Cost : {#ff9933}%s{/}
 UI_20150317_000334	{@st41b}Add Socket
 UI_20150317_000335	{@st41b}Extract Gem
-UI_20150317_000336	{@st41}Craft{/}
+UI_20150317_000336	{@st41}ﺔﻋﺎﻨﺻ{/}
 UI_20150317_000337	{@st41}%s %s ea
 UI_20150317_000338	Area Map
 UI_20150317_000339	Area Explored : 95.5%
 UI_20150317_000340	{@st45tw}Area Explored %s% {/}
 UI_20150317_000341	{@st59}Close{/}
-UI_20150317_000342	{@st41}Map{/}
+UI_20150317_000342	{@st41}ﺔﻄﻳﺮﺧ{/}
 UI_20150317_000343	Shift(clear), Ctrl(mid fill)
 UI_20150317_000344	{ol}Title
-UI_20150317_000345	{@st41}Add{/}
-UI_20150317_000346	{@st41}Delete{/}
-UI_20150317_000347	{@st41}Save{/}
-UI_20150317_000348	{@st41}Auto{/}
-UI_20150317_000349	{@st41}Reset{/}
+UI_20150317_000345	{@st41}ﻒﺿﺃ{/}
+UI_20150317_000346	{@st41}ﻑﺬﺣ{/}
+UI_20150317_000347	{@st41}ﻆﻔﺣ{/}
+UI_20150317_000348	{@st41}ﻲﺋﺎﻘﻠﺗ{/}
+UI_20150317_000349	{@st41}ﺓﺩﺎﻋﺇ{/}
 UI_20150317_000350	{@st59}Set quantity.{/}
 UI_20150317_000351	{ol}Group
 UI_20150317_000352	{ol}Message
@@ -723,22 +723,22 @@ UI_20150317_000722	{@st43}Attack Effects{/}
 UI_20150317_000723	{@st43}Defense Effects{/}
 UI_20150317_000724	{@st43}Stat{/}
 UI_20150317_000725	systemmenu_vertical tentative removal
-UI_20150317_000726	{@st59}Character Information (F1){/}
-UI_20150317_000727	{@st59}Inventory (F2){/}
-UI_20150317_000728	{@st59}Classes & Skills (F3){/}
-UI_20150317_000729	{@st59}Adventure Journal (F4){/}
-UI_20150317_000730	{@st59}Quests (F5){/}
-UI_20150317_000731	{@st59}Party (F6){/}
-UI_20150317_000732	{@st59}Friends (F7){/}
-UI_20150317_000733	{@st59}Macro (F8) {/}
-UI_20150317_000734	{@st59}Companion (F9) {/}
-UI_20150317_000735	{@st59}Help (F10) {/}
-UI_20150317_000736	{@st59}System Menu (Esc){/}
+UI_20150317_000726	{@st59}ﺔﻴﺼﺨﺸﻟﺍ ﺕﺎﻣﻮﻠﻌﻣ (F1){/}
+UI_20150317_000727	{@st59}ﺔﺒﻴﻘﺤﻟﺍ (F2){/}
+UI_20150317_000728	{@st59}ﺕﺍﺭﺎﻬﻤﻟﺍ ﻭ ﺕﺎﻘﺒﻄﻟﺍ (F3){/}
+UI_20150317_000729	{@st59}ﺓﺮﻣﺎﻐﻤﻟﺍ ﺮﺘﻓﺩ (F4){/}
+UI_20150317_000730	{@st59}ﻡﺎﻬﻣ (F5){/}
+UI_20150317_000731	{@st59}ﺔﻋﻮﻤﺠﻣ (F6){/}
+UI_20150317_000732	{@st59}ﺀﺎﻗﺪﺻﺃ (F7){/}
+UI_20150317_000733	{@st59}ﻭﺮﻛﺎﻣ (F8) {/}
+UI_20150317_000734	{@st59}ﻖﻓﺍﺮﻣ (F9) {/}
+UI_20150317_000735	{@st59}ﺓﺪﻋﺎﺴﻣ (F10) {/}
+UI_20150317_000736	{@st59}ﻡﺎﻈﻨﻟﺍ ﺔﻤﺋﺎﻗ (Esc){/}
 UI_20150317_000737	{@st59}Necronomicon{/}
-UI_20150317_000738	Help (F1)
+UI_20150317_000738	ﺓﺪﻋﺎﺴﻣ (F1)
 UI_20150317_000739	Contents
 UI_20150317_000740	View Details
-UI_20150317_000741	{@st43}Game Settings{/}
+UI_20150317_000741	{@st43}ﺔﺒﻌﻠﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ{/}
 UI_20150317_000742	{@st43}Game{/}
 UI_20150317_000743	{@st41b}Show Gained EXP{/}
 UI_20150317_000744	{@st41b}Show Character Name{/}
@@ -1902,8 +1902,8 @@ UI_20151224_001901	{@st66b}Full Map{/}
 UI_20151224_001902	{@st59}Show Full Map{/}
 UI_20151224_001903	{ol}Message
 UI_20151224_001904	{@st66b18}Retrieve
-UI_20151224_001905	{@st66b18}Sell
-UI_20151224_001906	{@st66b18}Buy
+UI_20151224_001905	{@st66b18}ﻊﻴﺑ
+UI_20151224_001906	{@st66b18}ﺀﺍﺮﺷ
 UI_20151224_001907	{@st45tw2}Lv.{/}
 UI_20151224_001908	{@st45tw2}Unit Price{/}
 UI_20151224_001909	{@st45tw2}Quantity{/}
@@ -1959,10 +1959,10 @@ UI_20151224_001958	Do you want to use this %s?{/}
 UI_20151224_001959	This item will disappear from your inventory{nl}Resets your all Skill Points.
 UI_20151224_001960	{@st41}Use
 UI_20151224_001961	{@st59b}Classes{nl}{@st59s}- You can learn new skills by growing the Circle of your class. {nl} - You can choose from 3 available classes to advance to from your 1st to 2nd advancement. {nl} - You can advance to the same class up to 3 times. {nl} - You cannot change back to your previous class once you advanced to another class. {nl} - You have to consume all your Skill Points to be able to advance. {nl} - You can choose the same class.{nl}{@st59b}Skills{nl}{@st59s} - You can increase the rank of each skill up to level 5.{nl} - Attributes learned from your Masters can be seen below your skills. {/}
-UI_20151224_001962	{@st66b}Information{/}
-UI_20151224_001963	{@st66b}Achievements{/}
-UI_20151224_001964	{@st66b}Character Settings{/}
-UI_20151224_001965	{@st59}Collection (F11){/}
+UI_20151224_001962	{@st66b}ﺕﺎﻣﻮﻠﻌﻣ{/}
+UI_20151224_001963	{@st66b}ﺕﺍﺯﺎﺠﻧﺇ{/}
+UI_20151224_001964	{@st66b}ﺔﻴﺼﺨﺸﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ{/}
+UI_20151224_001965	{@st59}ﻞﻴﺼﺤﺗ (F11){/}
 UI_20151224_001966	{@st66b}Key Settings
 UI_20151224_001967	{@st42}Duration: %s{/}
 UI_20151224_001968	Applies to this %s for %s{nl} and delete %s from inventory
@@ -2035,10 +2035,10 @@ UI_20151224_002034	{@st66b}Change Signboard Title
 UI_20151224_002035	{@st41b}Eat
 UI_20151224_002036	{@st41b}Number
 UI_20151224_002037	Cash Garden %s{/}
-UI_20151224_002038	Show Online
+UI_20151224_002038	ﻦﻴﻠﺼﺘﻤﻟﺍ ﺽﺮﻋ
 UI_20151224_002039	Hangout Entry
 UI_20151224_002040	Allow guild members only
-UI_20151224_002041	War Records
+UI_20151224_002041	ﺏﺮﺤﻟﺍ ﺕﻼﺠﺳ
 UI_20151224_002042	Guild Wars List
 UI_20151224_002043	Remaining Time
 UI_20151224_002044	Available Tower
