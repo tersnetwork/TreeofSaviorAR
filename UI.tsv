@@ -160,57 +160,57 @@ UI_20150317_000159	Adventure Index {#ffff00}%s{/} (Rank{#ffff00}%s{/}/%s)
 UI_20150317_000160	Adventure Index {#ffff00}%s{/} ({#ffff00}Unranked{/})
 UI_20150317_000161	ﺕﺍﺯﺎﺠﻧﻹﺍ ﻉﻮﻤﺠﻣ : {#ffff00}%s{/}
 UI_20150317_000162	ﺕﺍﺩﺍﺪﻋﻹﺍ
-UI_20150317_000163	Clear the tab title to delete the tab.
+UI_20150317_000163	ﺐﻳﻮﺒﺘﻟﺍ ﺔﻣﻼﻋ ﻑﺬﺤﻟ ﺐﻳﻮﺒﺘﻟﺍ ﻥﺍﻮﻨﻋ ﺢﺴﻣﺇ.
 UI_20150317_000164	{@st49}ﺔﻓﺎﻛ{/}
 UI_20150317_000165	{@st49}ﻡﺎﻀِﻧ{/}
 UI_20150317_000166	{@st49}ﺙﺪﺤﺗ{/}
 UI_20150317_000167	{@st49}ﺔﻛﺮﻌﻣ{/}
 UI_20150317_000168	{@st49}ﺓﺍﺩﺃ{/}
-UI_20150317_000169	{@st43}Credits{/}
+UI_20150317_000169	{@st43}ﺕﺎﺋﺍﺪﻫﻹﺍ{/}
 UI_20150317_000170	{@st43}Lock Target settings {/}
 UI_20150317_000171	ﻝ.ﻍ.ﺵ ﻢﺳﺍ
 UI_20150317_000172	ﺔﻧﺭﺎﻘﻣ
 UI_20150317_000173	Illustration
 UI_20150317_000174	ﺔﺛﺩﺎﺤﻣ ﺮﺘﺧﺇ
 UI_20150317_000175	Text Help
-UI_20150317_000176	{@st41}Item Crafting{/}
-UI_20150317_000177	{@st45tw2}Crafting the item...
+UI_20150317_000176	{@st41}ﺓﺍﺩﻻﺍ ﺔﻋﺎﻨٍﺻ{/}
+UI_20150317_000177	{@st45tw2}ﺓﺍﺩﻷﺍ ﻊَﻨﺼﻳ...
 UI_20150317_000178	%r ﻲﻧﺍﻮﺛ
 UI_20150317_000179	{@st41}ﺀﺎﻐﻟﺇ{/}
 UI_20150317_000180	{@st45tw2}ﺔﻴﻤﻛ{/}
-UI_20150317_000181	{@st45tw2}Do you want to craft this item?
+UI_20150317_000181	{@st45tw2}ﺓﺍﺩﻻﺍ ﺓٍﺬﻫ ﺔﻋﺎﻨﺻ ﺪﻳﺮﺗ ﻞﻫ?
 UI_20150317_000182	{@st41}ﺪﻴﻛﺄﺗ{/}
 UI_20150317_000183	ﺔﻤﻬﻤﻟﺍ ﺕﺎﻣﻮﻠﻌﻣ
-UI_20150317_000184	{@st59}Cancel Trade{/}
-UI_20150317_000185	{@st43}Personal Trade{/}
-UI_20150317_000186	My Trading List
+UI_20150317_000184	{@st59}ﺓﺮﺟﺎﺘﻤﻟﺍ ﺀﺎﻐﻟﺇ{/}
+UI_20150317_000185	{@st43}ﺔﻴﺼﺨﺸﻟﺍ ﺓﺮﺟﺎﺘﻤﻟﺍ{/}
+UI_20150317_000186	ﻲﺗﺍﺮﺟﺎﺘﻣ ﺔﺤﺋﻻ
 UI_20150317_000187	ﺔﻀﻓ : %s
 UI_20150317_000188	ﻝﻮﺧﺩ
 UI_20150317_000189	{@st41}ﻝﻮﺒﻗ
 UI_20150317_000190	{@st41}ﺪﻴﻛﺄﺗ
-UI_20150317_000191	Other Player's (%s) Trading List
+UI_20150317_000191	ﻥﻭﺮﺧﺁ ﻦﻴﺒﻋﻻ (%s) ﺓﺮﺟﺎﺘﻣ ﺔﺤﺋﻻ
 UI_20150317_000192	ﻦﻳﺮﺧﺁ ﻦﻴﺒﻋﻻ ﻢﺳﺍ
-UI_20150317_000193	{s18}{ol} {gr gradation1}Field Event{/}
+UI_20150317_000193	{s18}{ol} {gr gradation1}ﻞﻘﺤﻟﺍ ﺔﻘﺑﺎﺴﻣ{/}
 UI_20150317_000194	{s20}{ol}Defeat the Vubbe Tribe! Would you like to join?
-UI_20150317_000195	{s20}{ol}%s Would you like to join?
-UI_20150317_000196	{s20}{ol}Participants : (1/5)
-UI_20150317_000197	{s20}{ol}Participants : (%s/%s)
-UI_20150317_000198	{s20}{ol}The game will begin after 1 second.
-UI_20150317_000199	{s20}{ol}The game will begin after %s seconds.
-UI_20150317_000200	Do not show this anymore for today.
-UI_20150317_000201	Do not show Field Events.
+UI_20150317_000195	{s20}{ol}%s ﻡﺎﻤٍﻀﻧﻹﺎﺑ ﺐﻏﺮﺗ ﻞﻫ?
+UI_20150317_000196	{s20}{ol}ﻥﻮﻛﺭﺎﺸُﻤﻟﺍ : (1/5)
+UI_20150317_000197	{s20}{ol}ﻥﻮﻛﺭﺎﺸُﻤﻟﺍ : (%s/%s)
+UI_20150317_000198	{s20}{ol}الﺪﻌﺑ ﺃﺪﺒﺘﺳ ﻪﺒﻌﻠﻟﺍ ﺔﻴﻧﺎﺛ.
+UI_20150317_000199	{s20}{ol}ﺪﻌﺑ ﺃﺪﺒﺘﺳ ﻪﺒﻌﻠﻟﺍ %s ﻲﻧﺍﻮﺛ.
+UI_20150317_000200	ﻡﻮﻴﻟﺍ ًﺍﺩﺪﺠﻣ ﺍﺬﻫ ﺮِﻬﻀُﺗﻻ.
+UI_20150317_000201	ﻞﻘﺤﻟﺍ ﺕﺎﻘﺑﺎﺴُﻣ ﺮِﻬﻀُﺗﻻ.
 UI_20150317_000202	ﺔﺒﻌﻠﻟ ﻢﻀﻧﺇ
-UI_20150317_000203	Start a game with other players.
-UI_20150317_000204	Decline game invite.
+UI_20150317_000203	 ﻦﻳﺮﺧﺁ ﻦﻴﺒﻋﻻ ﻊﻣ ﺔﺒﻌﻟ ﺃﺪﺑ.
+UI_20150317_000204	ﺔﺒﻌﻠﻟﺍ ﺓﻮﻋﺩ ﺀﺎﻐﻟﺇ.
 UI_20150317_000205	Spray Presets
 UI_20150317_000206	{@st49}ﺪﻳﺪﺤﺗ{/}
 UI_20150317_000207	{@st49}ﺀﺎﻐﻟﺇ{/}
 UI_20150317_000208	{@st49}ﻑﺬﺣ{/}
-UI_20150317_000209	Enter a file name to save.
+UI_20150317_000209	ﻆﻔﺤﻠﻟ ﻒﻠﻣ ﻢﺳﺇ ﻞﺧﺩﺃ.
 UI_20150317_000210	{@st43}ﺀﺎﻗِﺪﺻﺃ
 UI_20150317_000211	{@st59}ﻕﻼﻏﺇ{/}
-UI_20150317_000212	{@st59b}Friends{nl}{@st59s} - Become friends with other players in the game. {nl} - You can check the status of your friends through the Friends List tab. {nl} - In the Manage tab, you can invite, decline or block your friends. {/}
-UI_20150317_000213	{@st41b}Show Online{/}
+UI_20150317_000212	{@st59b}ﺀﺎﻗٍﺪﺻﻷﺍ{nl}{@st59s} - Become friends with other players in the game. {nl} - You can check the status of your friends through the Friends List tab. {nl} - In the Manage tab, you can invite, decline or block your friends. {/}
+UI_20150317_000213	{@st41b}ﻦﻴﻠٍﺼﺘﻤﻟﺍ ﺮﻬﺿﺃ{/}
 UI_20150317_000214	{@st41b}ﺔﺤﺋﻻ
 UI_20150317_000215	{@st41b}ﺓﺭﺍﺩﺇ
 UI_20150317_000216	{@st41b}ﺔﻗﺍﺪﺻ ﺐﻠﻃ ﻝﺎﺳﺭﺇ
