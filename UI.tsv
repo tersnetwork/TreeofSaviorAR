@@ -287,130 +287,130 @@ UI_20150317_000286	{@st42}ﻱﺮﺟﺇ
 UI_20150317_000287	{@st42}ﻑﺪﻬﻟﺍ ﺕﺍﺪٍﻌُﻣ{/}
 UI_20150317_000288	{@st59}ﻢﺗﺎﺧ 1{/}
 UI_20150317_000289	{@st43}ﺓﺍﺩﻻﺍ ﺔﻋﺎﻨٍﺻ{/}
-UI_20150317_000290	{@st42b}Show Craftable Items{/}
+UI_20150317_000290	{@st42b}ﺔﻋﺎﻨٍﺼﻠﻟ ﺔﻠﺑﺎﻘﻟﺍ ﺕﺍﻭﺩﻷﺍ ﺮﻬﺿﺃ{/}
 UI_20150317_000291	{@st59}ﻖﻠﻏﺃ{/}
-UI_20150317_000292	{@st43}{s22}Split Item
-UI_20150317_000293	{@st59}Enter a quantity{/}
-UI_20150317_000294	Monster HP Bar
+UI_20150317_000292	{@st43}{s22}ﺓﺍﺩﻻﺍ ﻞﺼﻓ
+UI_20150317_000293	{@st59}ﺔﻴﻤﻛ ﻞﺧﺩﺃ{/}
+UI_20150317_000294	ﺶﺣﻮﻟﺍ ﺔﺤٍﺻ ﻊﺑﺮُﻣ
 UI_20150317_000295	{@st44}Item Set acquired{/}
 UI_20150317_000296	Keyboard Warrior
 UI_20150317_000297	Kills
-UI_20150317_000298	99 minutes 99 seconds
+UI_20150317_000298	99 ﺔﻘﻴﻗﺩ 99 ﻲﻧﺍﻮﺛ
 UI_20150317_000299	38000 ﻁﺎﻘﻧ
-UI_20150317_000300	Enhanced Speed Potion
+UI_20150317_000300	ﻦﺴﺤُﻣ ﺔﻋﺮﺳ ﻕﺎﻳﺮٍﺗ
 UI_20150317_000301	{@st41}ﺪﻴﻛﺄﺗ{/}
-UI_20150317_000302	{@st59b} Adventure Journal {nl}{@st59s}- Your game progress is recorded in the Adventure Journal. {nl} - You can progress your Adventure Index through contents such as: obtaining items, hunting monsters, crafting and map exploration.{nl}    Adventure Index : The total of all your indexes. {nl}    Growth : 5 points per character level and class level {nl}    Items : Equipment : grade X 10 points, Books : 10 points, Others : 1 point {nl}    Monsters : 10 points per monster (50 points for Boss Monsters) {nl}    Maps : 1 point per 10% explored {nl}    Quests : 1 point per quest {nl}    Achievements : Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : 5 points for a deck and 45 points when it is completed {nl} - You can receive special rewards from an NPC in town depending on your Adventure Index. {/}
-UI_20150317_000303	{@sti7}{s22}{ds}Achievements{/}
-UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Points{/}
-UI_20150317_000305	{@st42b} Average / %s Points {/}
-UI_20150317_000306	1st / %s Points
-UI_20150317_000307	Rank %s
-UI_20150317_000308	%s Points
-UI_20150317_000309	Profession
+UI_20150317_000302	{@st59b} ﺓﺮﻣﺎﻐُﻤﻟﺍ ﺔﻠﺣﺭ {nl}{@st59s}-ﺓﺮﻣﺎﻐﻤﻟﺍ ﺔﻠﺣﺭ ﻲﻓ ﻞﺠﺴُﻣ ﻚﺘﺒﻌﻟ ﻡُﺪﻘﺗl. {nl} - You can progress your Adventure Index through contents such as: obtaining items, hunting monsters, crafting and map exploration.{nl}    Adventure Index : The total of all your indexes. {nl}    Growth : 5 points per character level and class level {nl}    Items : Equipment : grade X 10 points, Books : 10 points, Others : 1 point {nl}    Monsters : 10 points per monster (50 points for Boss Monsters) {nl}    Maps : 1 point per 10% explored {nl}    Quests : 1 point per quest {nl}    Achievements : Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : 5 points for a deck and 45 points when it is completed {nl} - You can receive special rewards from an NPC in town depending on your Adventure Index. {/}
+UI_20150317_000303	{@sti7}{s22}{ds}ﺕﺍﺯﺎﺠﻧﻹﺍ{/}
+UI_20150317_000304	{@st42b}{#22FF22} ﻰﻠﻋﺃ 10% / %s ﻁﺎﻘﻨﻟﺍ{/}
+UI_20150317_000305	{@st42b} ﻝﺪﻌﻣ / %s ﻁﺎﻘﻨﻟﺍ {/}
+UI_20150317_000306	1st / %s ﻁﺎﻘﻧ
+UI_20150317_000307	ﺔﺒﺗُﺭ %s
+UI_20150317_000308	%s ﻁﺎﻘﻧ
+UI_20150317_000309	ﺔﻨﻬٍﻤﻟﺍ
 UI_20150317_000310	ﻖﻳﺮﻓ
 UI_20150317_000311	{@st59}ﻖﻠﻏﺃ{/}
-UI_20150317_000312	{@st43}Adventure Journal Ranking{/}
-UI_20150317_000313	{@st43}{s22}Rank   
-UI_20150317_000314	{@st43}{s22}Name
-UI_20150317_000315	{@st43}{s22}Score
-UI_20150317_000316	{@st41}Details{/}
-UI_20150317_000317	{@st43}Start Crafting{/}
-UI_20150317_000318	{@st59}Start item crafting.{/}
+UI_20150317_000312	{@st43}ﺓﺮﻣﺎﻐُﻤﻟﺍ ﺔﻠﺣﺭ ﺐﻴﺗﺮﺗ{/}
+UI_20150317_000313	{@st43}{s22}ﺔﺒﺗُﺭ   
+UI_20150317_000314	{@st43}{s22}ﻢﺳﻹﺍ
+UI_20150317_000315	{@st43}{s22}ﺔﺠﻴﺘﻨﻟﺍ
+UI_20150317_000316	{@st41}ﻞﻴﺻﺎﻔﺘﻟﺍ{/}
+UI_20150317_000317	{@st43}ﺔﻋﺎﻨٍﺼﻟﺍ ﺃﺪﺑﺇ{/}
+UI_20150317_000318	{@st59}ﺓﺍﺩﻷﺍ ﺔﻋﺎﻨٍﺻ ﺃﺪﺑﺇ.{/}
 UI_20150317_000319	{@st44}Keypad{/}
 UI_20150317_000320	{@st42}Time limit
 UI_20150317_000321	{@st56}Kill{/}
 UI_20150317_000322	{@st56}Overkill{/}
 UI_20150317_000323	{@st56}Shot{/}
 UI_20150317_000324	{@st56}Dead{/}
-UI_20150317_000325	Spell Power
-UI_20150317_000326	Defense
-UI_20150317_000327	Magic Resistance
-UI_20150317_000328	Critical Attack Rate
-UI_20150317_000329	{@st43}Socket{/}
+UI_20150317_000325	ﺔﻘﻌَﺼﻟﺍ ﺓﻮﻗ
+UI_20150317_000326	ﻉﺎﻓٍﺪﻟﺍ
+UI_20150317_000327	ﺔﻳﺮﺤﺴﻟﺍ ﺔﻣﻭﺎﻘُﻤﻟﺍ
+UI_20150317_000328	ﺝٍﺮَﺤﻟﺍ ﻡﻮﺠﻬﻟﺍ ﻝﺪﻌُﻣ
+UI_20150317_000329	{@st43}ﻒﻳﻮﺠﺗ{/}
 UI_20150317_000330	{@st59}ﻖﻠﻏﺃ{/}
 UI_20150317_000331	Please insert your items
 UI_20150317_000332	Potential
 UI_20150317_000333	Additional Socket Cost : {#ff9933}%s{/}{nl}Gem Extraction Cost : {#ff9933}%s{/}
 UI_20150317_000334	{@st41b}Add Socket
-UI_20150317_000335	{@st41b}Extract Gem
+UI_20150317_000335	{@st41b}ﺮﺠﺤﻟﺍ ﺝﺍﺮﺨﺘﺳﺇ
 UI_20150317_000336	{@st41}ﺔﻋﺎﻨﺻ{/}
 UI_20150317_000337	{@st41}%s %s ea
-UI_20150317_000338	Area Map
-UI_20150317_000339	Area Explored : 95.5%
-UI_20150317_000340	{@st45tw}Area Explored %s% {/}
-UI_20150317_000341	{@st59}Close{/}
+UI_20150317_000338	ﺔﻘٍﻄﻨﻤﻟﺍ ﺔﻄﻳﺮﺧ
+UI_20150317_000339	ﺔﻔﺸﺘﻜُﻣ ﺔﻘﻄﻨﻣ : 95.5%
+UI_20150317_000340	{@st45tw}ﺔﻔﺸﺘﻜُﻣ ﺔﻘﻄﻨﻣ %s% {/}
+UI_20150317_000341	{@st59}ﻕﻼﻏﺇ{/}
 UI_20150317_000342	{@st41}ﺔﻄﻳﺮﺧ{/}
 UI_20150317_000343	Shift(clear), Ctrl(mid fill)
-UI_20150317_000344	{ol}Title
+UI_20150317_000344	{ol}ﻥﺍﻮﻨُﻌﻟﺍ
 UI_20150317_000345	{@st41}ﻒﺿﺃ{/}
 UI_20150317_000346	{@st41}ﻑﺬﺣ{/}
 UI_20150317_000347	{@st41}ﻆﻔﺣ{/}
 UI_20150317_000348	{@st41}ﻲﺋﺎﻘﻠﺗ{/}
 UI_20150317_000349	{@st41}ﺓﺩﺎﻋﺇ{/}
-UI_20150317_000350	{@st59}Set quantity.{/}
-UI_20150317_000351	{ol}Group
-UI_20150317_000352	{ol}Message
-UI_20150317_000353	{ol}Sound
-UI_20150317_000354	{@st41}Create Minimap{/}
-UI_20150317_000355	{@st55}Area Map
-UI_20150317_000356	{@st43}{s22}Market{/}
-UI_20150317_000357	{@st43}{s24}Market{/}
+UI_20150317_000350	{@st59}ﺔﻴﻤﻜﻟﺍ ﺩﺪﺣ.{/}
+UI_20150317_000351	{ol}ﺔﻋﻮﻤﺠﻣ
+UI_20150317_000352	{ol}ﺔﻟﺎﺳٍﺭ
+UI_20150317_000353	{ol}ﺕﻮﺻ
+UI_20150317_000354	{@st41}ﺓﺮﻐﺼُﻣ ﺔﻄﻳﺮﺧ ﺀﺎﺸﻧﺇ{/}
+UI_20150317_000355	{@st55}ﺔﻘﻄﻨﻤﻟﺍ ﺔﻄﻳﺮﺧ
+UI_20150317_000356	{@st43}{s22}ﻕﻮﺴﻟﺍ{/}
+UI_20150317_000357	{@st43}{s24}ﻕﻮﺴﻟﺍ{/}
 UI_20150317_000358	{@st42b}Filter{/}
-UI_20150317_000359	{@st42b}Type{/}
+UI_20150317_000359	{@st42b}ﻉﻮﻨﻟﺍ{/}
 UI_20150317_000360	{@st42b}Req. Lv{/}
 UI_20150317_000361	{@st42b}Enhance Lv{/}
-UI_20150317_000362	{@st42b}Name
-UI_20150317_000363	{@st41b}Retrieve %s
-UI_20150317_000364	{@st41b}Sell
-UI_20150317_000365	{@st41b}Search
-UI_20150317_000366	{@st59}Close{/}
-UI_20150317_000367	{@st42b}Sort
-UI_20150317_000368	{@st41b}Purchase
+UI_20150317_000362	{@st42b}ﻢﺳﺇ
+UI_20150317_000363	{@st41b}ﺩﺍﺩﺮﺘﺳﺍ %s
+UI_20150317_000364	{@st41b}ﻊﻴﺑ
+UI_20150317_000365	{@st41b}ﺚﺤﺑ
+UI_20150317_000366	{@st59}ﻕﻼﻏﺇ{/}
+UI_20150317_000367	{@st42b}ﺐﻴﺗﺮﺗ
+UI_20150317_000368	{@st41b}ﺀﺍﺮٍﺷ
 UI_20150317_000369	{@st43}{s22}Retrieve
-UI_20150317_000370	{@st41b}Retrieve All
-UI_20150317_000371	{@st41b}Retrieve
-UI_20150317_000372	{@st43}{s22}Sell
-UI_20150317_000373	{@st42b}Quantity
-UI_20150317_000374	{@st42b}Price
-UI_20150317_000375	{@st42b}Hide Seller's Name{/}
-UI_20150317_000376	{@st41b}Register
+UI_20150317_000370	{@st41b}ﻞﻜﻟﺍ ﺩﺍﺩﺮﺘﺳﺍ
+UI_20150317_000371	{@st41b}ﺩﺍﺩﺮﺘﺳﺍ
+UI_20150317_000372	{@st43}{s22}ﻊﻴﺑ
+UI_20150317_000373	{@st42b}ﺔﻴﻤﻜﻟﺍ
+UI_20150317_000374	{@st42b}ﺮﻌِﺴﻟﺍ
+UI_20150317_000375	{@st42b}ﻦﻴﻌﺋﺎﺒﻟﺍ ﻢﺳﺇ ﺀﺎﻔﺧﺇ{/}
+UI_20150317_000376	{@st41b}ﻞﻴﺠﺴﺗ
 UI_20150317_000377	Siege Coin
-UI_20150317_000378	Someone was killed by someone
+UI_20150317_000378	ﺎﻣ ﺺﺨﺷ ﻞﺒِﻗ ﻦﻣ ﻪﻠﺘﻗ ﻢﺗ ﺎﻣ ﺺﺨﺷ
 UI_20150317_000379	{@st43}Minigames{/}
 UI_20150317_000380	{@st49}Fire Catapult{/}
-UI_20150317_000381	{@st44}Control directions{/}
+UI_20150317_000381	{@st44}ﺕﺎﻫﺎﺠِﺗﻹﺍ ﻢﻜﺤﺗ{/}
 UI_20150317_000382	{@st44}Fire{/}
 UI_20150317_000383	Minigame
 UI_20150317_000384	{s18}{ol}{gr gradation1}Hide and seek minigame{/}
 UI_20150317_000385	{s16}Would you like to join the mini-game?
 UI_20150317_000386	{s16}Participants : (0/5)
 UI_20150317_000387	{s16}Participants : (%s /%s)
-UI_20150317_000388	{s16}The game starts after 1 second.
-UI_20150317_000389	{s16}The game starts after %s seconds.
-UI_20150317_000390	{@st59}Zoom in{/}
-UI_20150317_000391	{@st59}Zoom out{/}
-UI_20150317_000392	{@st59}Map (M){/}
-UI_20150317_000393	{@st42b} Area Map
+UI_20150317_000388	{s16}ﺪﻌﺑ ﻪﺒﻌﻠﻟﺍ ﺃﺪﺒﺘﺳ 1 ﺔﻴﻧﺎﺛ.
+UI_20150317_000389	{s16}ﺪﻌﺑ ﻪﺒﻌﻠﻟﺍ ﺃﺪﺒﺘﺳ %s ﻲﻧﺍﻮﺛ.
+UI_20150317_000390	{@st59}ﺐﻳﺮﻘﺗ{/}
+UI_20150317_000391	{@st59}ﺮﻴﻐﺼﺗ{/}
+UI_20150317_000392	{@st59}ﺔﻄﻳﺮﺨﻟﺍ (M){/}
+UI_20150317_000393	{@st42b} ﺔﻘﻄﻨﻤﻟﺍ ﺔﻄﻳﺮﺧ
 UI_20150317_000394	{@st44}Item Synthesizer{/}
-UI_20150317_000395	{s16}{#FFcc66}{ol}Please select the item you want to create{/}{/}
-UI_20150317_000396	{s16}{#FFcc66}{ol}Drag the ingredients to the slots
-UI_20150317_000397	{@st42}Create{/}
-UI_20150317_000398	{@st42} Cancel {/}
-UI_20150317_000399	Information of %s
+UI_20150317_000395	{s16}{#FFcc66}{ol}ﺎﻬﺋﺎﺸﻧﺇ ﺪﻳﺮُﺗ ﻲﺘﻠﻟﺍ ﺓﺍﺩﻷﺍ ﺪﻳﺪﺤﺗ ﺀﺎﺟﺮﻟﺍ{/}{/}
+UI_20150317_000396	{s16}{#FFcc66}{ol}ﺕﺎﻧﺎﺨﻟﺍ ﻰﻟﺇ ﺕﺎﻧِﻮﻜُﻤﻟﺍ ﺐﺤﺳﺇ
+UI_20150317_000397	{@st42}ﺀﺎﺸﻧﺇ{/}
+UI_20150317_000398	{@st42} ﺀﺎﻐﻟﺇ {/}
+UI_20150317_000399	ﺕﺎﻣﻮﻠﻌﻤﻟﺍ %s
 UI_20150317_000400	Kepa or ...
 UI_20150317_000401	{@st41}{Details}
-UI_20150317_000402	{s20}{#050505}Monster Description Monster Description Monster Description Monster Description
+UI_20150317_000402	{s20}{#050505}ﺶﺣﻮﻟﺍ ﻒﺻﻭ ﺶﺣﻮﻟﺍ ﻒﺻﻭ ﺶﺣﻮﻟﺍ ﻒﺻﻭ ﺶﺣﻮﻟﺍ ﻒﺻﻭ
 UI_20150317_000403	{@st41} Kill {/}
 UI_20150317_000404	{@st41} Overkill {/}
 UI_20150317_000405	{@st41} Normal Kill {/}
-UI_20150317_000406	{@st41} Area {/}
-UI_20150317_000407	{@st41} Item {/}
-UI_20150317_000408	{@st41} Achievement {/}
+UI_20150317_000406	{@st41} ﺔﻘﻄﻨﻣ {/}
+UI_20150317_000407	{@st41} ﺓﺍﺩﺍ {/}
+UI_20150317_000408	{@st41} ﺯﺎﺠﻧﺇ {/}
 UI_20150317_000409	Object
 UI_20150317_000410	{@st43}Necronomicon{/}
 UI_20150317_000411	{@st59}Close{/}
-UI_20150317_000412	{@st59}I am too lazy to think.{/}
-UI_20150317_000413	Summoned Creature : {#ffcc33}%s{/}
+UI_20150317_000412	{@st59}ﺮﻴﻜﻔﺘﻠﻟ ًﺍﺪﺟ ﻝﻮﺴﻛ ﺎﻧﺃ.{/}
+UI_20150317_000413	ﻰﻋﺪﺘﺴُﻤﻟﺍ ﻦﺋﺎﻜﻟﺍ : {#ffcc33}%s{/}
 UI_20150317_000414	Undead Harpy
 UI_20150317_000415	Skill : %s
 UI_20150317_000416	Skill 1, Skill 2
@@ -420,51 +420,51 @@ UI_20150317_000419	Number of Fragments
 UI_20150317_000420	Parts 1
 UI_20150317_000421	Parts 2
 UI_20150317_000422	Parts 3
-UI_20150317_000423	Congratulations! You have leveled up.
+UI_20150317_000423	تهآنينا! ﻯﻮﺘﺴﻣ ﺖﻴﻘﺗﺭﺇ ﺪﻘﻟ.
 UI_20150317_000424	Item Alarm
 UI_20150317_000425	{@st64}Details{/}
-UI_20150317_000426	How to Play
-UI_20150317_000427	{@st42b}          Move once with each of the keys{/}
-UI_20150317_000428	{@st42b}       Perform a basic attack{/}
-UI_20150317_000429	{@st42b}                Jump up{/}
-UI_20150317_000430	{@st42b}  Press two directional keys to move diagonally.{/}
+UI_20150317_000426	ﺐﻌﻠﺗ ﻒﻴﻛ
+UI_20150317_000427	{@st42b}          ﺢﻴﺗﺂﻔﻤﻟﺍ ﻦﻣ ﺪﺣﺍﻭ ﻞﻛ ﻦﻣ ﺓﺪﺣﺍﻭ ﺓﺮﻣ ﻙﺮﺤﺗ{/}
+UI_20150317_000428	{@st42b}       ﻲﺳﺎﺳﻷﺍ ﻡﻮﺠﻬﻟﺍ ﺬﻴﻔﻨﺗ{/}
+UI_20150317_000429	{@st42b}                ﺰﻔﻗﺇ{/}
+UI_20150317_000430	{@st42b}  ﻑﺍﺮﺤﻧﺈﺑ ﻙﺮﺤﺘﻠﻟ ﻚﻳﺮﺤﺗ ﻲﺣﺂﺘﻔﻣ ﻂﻐﺿﺇ.{/}
 UI_20150317_000431	Fog Map Tool
-UI_20150317_000432	Tool for killing monsters
-UI_20150317_000433	Tool for making a mini-map
-UI_20150317_000434	Dialogue tool
+UI_20150317_000432	ﺵﻮﺣﻮﻟﺍ ﻞﺘﻘﻟ ﺓﺍﺩﺃ
+UI_20150317_000433	ﺓﺮﻐﺼﻣ ﺔﻄﻳﺮﺧ ﻞﻤﻌﻟ ﺓﺍﺩﺃ
+UI_20150317_000434	ﺔﺛﺩﺎﺤُﻤﻟﺍ ﺓﺍﺩﺃ
 UI_20150317_000435	{@st43}GM Settings{/}
-UI_20150317_000436	{@st59}Close{/}
-UI_20150317_000437	{@st59b}Party Information{nl}{@st59s} - Click on the Create Party button at the bottom to create a party. {nl} - Right-click on other players to send a party invite. {nl} - Changes can be made to the party in the Settings tab. {nl} - Set up specific search conditions for party members from the Public Party list.{/}
-UI_20150317_000438	{@st43}Party Information{/}
-UI_20150317_000439	{@st41b}Members{/}
-UI_20150317_000440	{@st41b}Party Event {/}
-UI_20150317_000441	{@st41b}Settings{/}
-UI_20150317_000442	{@st41}Members{/}
-UI_20150317_000443	{@st41}Requirements for joining this party
-UI_20150317_000444	{@st41b}Public
-UI_20150317_000445	{@st41b}Private
-UI_20150317_000446	Wish Level                                ~
-UI_20150317_000447	{@st41}Loot Distribution
-UI_20150317_000448	{@st41b}Free for all
+UI_20150317_000436	{@st59}ﻕﻼﻏﺇ{/}
+UI_20150317_000437	{@st59b}ﻖﻳﺮﻔﻟﺍ ﺕﺎﻣﻮﻠﻌﻣ{nl}{@st59s} - Click on the Create Party button at the bottom to create a party. {nl} - Right-click on other players to send a party invite. {nl} - Changes can be made to the party in the Settings tab. {nl} - Set up specific search conditions for party members from the Public Party list.{/}
+UI_20150317_000438	{@st43}ﻖﻳﺮﻔﻟﺍ ﺕﺎﻣﻮﻠﻌﻣ{/}
+UI_20150317_000439	{@st41b}ﺀﺎﻀﻋﺃ{/}
+UI_20150317_000440	{@st41b}ﻖﻳﺮﻔﻟﺍ ﺙﺪَﺣ {/}
+UI_20150317_000441	{@st41b}ﺕﺍﺩﺍﺪﻋﻹﺍ{/}
+UI_20150317_000442	{@st41}ﺀﺎﻀﻋﻷﺍ{/}
+UI_20150317_000443	{@st41}ﻖﻳﺮﻔﻟﺍ ﺍﺬﻬﻟ ﻝﻮﺧﺪﻠﻟ ﺕﺎﺒﻠﻄﺘُﻤﻟﺍ
+UI_20150317_000444	{@st41b}ﻡﺎﻋ
+UI_20150317_000445	{@st41b}ﺹﺎﺧ
+UI_20150317_000446	ﻯﻮﺘﺴﻣ ﻱﺃ                                ~
+UI_20150317_000447	{@st41}ﻢﺋﺎﻨﻐﻟﺍ ﻊﻳﺯﻮﺗ
+UI_20150317_000448	{@st41b}ﻞﻜﻠﻟ ﺮﻓﻮﺘﻣ
 UI_20150317_000449	{@st41b}Round Robin
-UI_20150317_000450	{@st41b}Random
-UI_20150317_000451	{@st41}EXP Distribution
-UI_20150317_000452	{@st41b}Individual EXP
-UI_20150317_000453	{@st41b}Equal EXP
-UI_20150317_000454	{@st41b}By Level
-UI_20150317_000455	{@st41}Quest Sharing
-UI_20150317_000456	{@st41b}Enabled
-UI_20150317_000457	{@st41b}Disabled
-UI_20150317_000458	{@st41b}Create Party
-UI_20150317_000459	{@st43}Public Party List {/}
-UI_20150317_000460	{@st59b}Public Party List{nl}{@st59s} - Search for a party you want to join by viewing the open parties in your server {nl} - Use the search option to find a party you want to join{/}
-UI_20150317_000461	{@st59}Close Party List{/}
-UI_20150317_000462	Use Search
-UI_20150317_000463	Quest Sharing
-UI_20150317_000464	EXP Distribution
-UI_20150317_000465	Item Distribution
-UI_20150317_000466	{@st43}Invite
-UI_20150317_000467	{@st41b}Invite{/}
+UI_20150317_000450	{@st41b}ﻲﺋﺍﻮﺸﻋ
+UI_20150317_000451	{@st41}ﺓﺮﺒﺨﻟﺍ ﻊﻳﺯﻮﺗ
+UI_20150317_000452	{@st41b}ﺔﻳﺩﺮﻓ ﺓﺮﺒﺧ
+UI_20150317_000453	{@st41b}ﺔﻳﻭﺎﺴﺘﻣ ﺓﺮﺒﺧ
+UI_20150317_000454	{@st41b}ﻯﻮﺘﺴﻤﻟﺍ ﺐﺴﺣ ﺓﺮﺒﺧ
+UI_20150317_000455	{@st41}ﺔﻤﻬﻤﻟﺍ ﺔﻛﺭﺎﺸُﻣ
+UI_20150317_000456	{@st41b}ﻦﻜﻤُﻣ
+UI_20150317_000457	{@st41b}ﻦﻜﻤُﻣ ﺮﻴﻏ
+UI_20150317_000458	{@st41b}ﻖﻳﺮﻓ ﺀﺎﺸﻧﺇ
+UI_20150317_000459	{@st43}ﺔﻣﺎﻋ ﻖﻳﺮﻓ ﺔﺤﺋﻻ {/}
+UI_20150317_000460	{@st59b}ﺔﻣﺎﻋ ﻖﻳﺮﻓ ﺔﺤﺋﻻ{nl}{@st59s} - Search for a party you want to join by viewing the open parties in your server {nl} - Use the search option to find a party you want to join{/}
+UI_20150317_000461	{@st59}ﻖﻳﺮﻔﻟﺍ ﺔﺤﺋﻻ ﻕﻼﻏﺇ{/}
+UI_20150317_000462	ﺚﺤﺒﻟﺍ ﻞﻤﻌﺘﺳﺇ
+UI_20150317_000463	ﺔﻤﻬﻤﻟﺍ ﺔﻛﺭﺎﺸُﻣ
+UI_20150317_000464	ﺓﺮﺒﺨﻟﺍ ﻊﻳﺯﻮﺗ
+UI_20150317_000465	ﺕﺍﻭﺩﻷﺍ ﻊﻳﺯﻮﺗ
+UI_20150317_000466	{@st43}ﺓﻮﻋﺩ
+UI_20150317_000467	{@st41b}ﺓﻮﻋﺩ{/}
 UI_20150317_000468	{s18}{ol}{gr gradation1}Logout PC rules{/}
 UI_20150317_000469	{ol}Conditions for applying rules
 UI_20150317_000470	{ol}Action for applying rules
@@ -473,96 +473,96 @@ UI_20150317_000472	{Gr gradation1}Registration{/}
 UI_20150317_000473	Register Rules
 UI_20150317_000474	{Gr gradation1}Cancel{/}
 UI_20150317_000475	Cancel Action
-UI_20150317_000476	{@st43}Companion Info
-UI_20150317_000477	{@st59b}Companion Info{nl}{@st59s} - You can set your companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your companion can be customized. {/}
-UI_20150317_000478	{@st59}Close{/}
-UI_20150317_000479	{@st41b}Name : {@sti9}%s{/}
+UI_20150317_000476	{@st43}ﻞﻴﻟﺪﻟﺍ ﺕﺎﻣﻮﻠﻌﻣ
+UI_20150317_000477	{@st59b}ﻞﻴﻟﺪﻟﺍ ﺕﺎﻣﻮﻠﻌﻣ{nl}{@st59s} - You can set your companion to Active or in Rest Mode using the button below. {nl} - The attributes and equipped items of your companion can be customized. {/}
+UI_20150317_000478	{@st59}ﻕﻼﻏﺇ{/}
+UI_20150317_000479	{@st41b}ﻢﺳﺇ : {@sti9}%s{/}
 UI_20150317_000480	{@sti9}%s{@st41b}Closeness : {@sti9}%s {@st41b}Level{/}
-UI_20150317_000481	{@st41b}EXP{/}
-UI_20150317_000482	{@st41b}Stamina{/}
+UI_20150317_000481	{@st41b}ﺓﺮﺒﺨﻟﺍ{/}
+UI_20150317_000482	{@st41b}ﻁﺎﺸَﻨﻟﺍ{/}
 UI_20150317_000483	{@st41b}Affinity{/}
-UI_20150317_000484	{@st41b}Attributes and Information
-UI_20150317_000485	{@st43}Companion{/}
-UI_20150317_000486	{@st59b}Companion{nl}{@st59s} - Click on an item in the list to view more information. {/}
-UI_20150317_000487	{@st59}Close{/}
-UI_20150317_000488	{@st59}Close{/}
-UI_20150317_000489	{@st59}Help{nl} - View detailed information and tips. {nl} - View other topics from the Help List{/}
-UI_20150317_000490	{@st43}Help{/}
-UI_20150317_000491	Help Topics
-UI_20150317_000492	{ol}{#AAAA00}{s16}Elapsed Time : %s
-UI_20150317_000493	{@st43}Poison Pot{/}
-UI_20150317_000494	{@st59}Close{/}
-UI_20150317_000495	{@st59}Need to write{/}
-UI_20150317_000496	Poison Amount: %s
-UI_20150317_000497	Items that can be used to Craft poison
-UI_20150317_000498	Select All
-UI_20150317_000499	Click again to de-select all
-UI_20150317_000500	Crafting
-UI_20150317_000501	shuffle shuffle mix and shuffle
-UI_20150317_000502	{@st43}Category{/}
-UI_20150317_000503	{@st43}Me{/}
-UI_20150317_000504	{@st43}Target{/}
-UI_20150317_000505	{@st43}Level{/}
+UI_20150317_000484	{@st41b}صِفات ومعلومات
+UI_20150317_000485	{@st43}ﻞﻴﻟﺩ{/}
+UI_20150317_000486	{@st59b}ﻞﻴﻟﺩ{nl}{@st59s} - Click on an item in the list to view more information. {/}
+UI_20150317_000487	{@st59}ﻕﻼﻏﺇ{/}
+UI_20150317_000488	{@st59}ﻕﻼﻏﺇ{/}
+UI_20150317_000489	{@st59}ﺓﺪﻋﺎﺴُﻣ{nl} -ﺢﺋﺎﺼﻧﻭ ﺔﻠﺼﻔُﻣ ﺕﺎﻣﻮﻠﻌﻣ ﺮﻬﺿﺃs. {nl} ﺓﺪﻋﺎﺴُﻤﻟﺍ ﺔﺤﺋﻻ ﻦﻣ ﻯﺮﺧُﺃ ﻊﻴﺿﺍﻮﻣ ﺮِﻬﺿﺃst{/}
+UI_20150317_000490	{@st43}ﺓﺪﻋﺎﺴُﻣ{/}
+UI_20150317_000491	ﺓﺪﻋﺎﺴُﻤﻟﺍ ﻊﻴﺿﺍﻮﻣ
+UI_20150317_000492	{ol}{#AAAA00}{s16}ﻲﻀﻘﻨُﻤﻟﺍ ﺖﻗﻮﻟﺍ : %s
+UI_20150317_000493	{@st43}ﻢﺳ ﻕﺎﻳﺮﺗ{/}
+UI_20150317_000494	{@st59}ﻕﻼﻏﺇ{/}
+UI_20150317_000495	{@st59}ﺔﺑﺎﺘٍﻜﻟﺍ ﻡﺰﻠﻳ{/}
+UI_20150317_000496	ﻢُﺴﻟﺍ ﺔﻴﻤﻛ: %s
+UI_20150317_000497	ﻢﺴﻟﺍ ﺔﻋﺎﻨِﺼﻟ ﺎﻬﻟﺎﻤﻌﺘﺳﺇ ﻦﻜﻤﻳ ﺕﺍﻭﺩﺃ
+UI_20150317_000498	ﻞﻜﻟﺍ ﺪﻳﺪﺤﺗ
+UI_20150317_000499	ﻞﻜﻟﺍ ﺪﻳﺪﺤﺗ ﺀﺎﻐﻟﻹ ًﺍﺩﺪﺠﻣ ﺮﻘﻧﺃ
+UI_20150317_000500	ﺔﻋﺎﻨِﺻ
+UI_20150317_000501	ﻂﻠﺧﻭ ﺝﺰﻣ ﻂﻠﺧ ﻂﻠﺧ
+UI_20150317_000502	{@st43}ﺔﺌﻓ{/}
+UI_20150317_000503	{@st43}ﺎﻧﺃ{/}
+UI_20150317_000504	{@st43}ﻑﺪﻬﻟﺍ{/}
+UI_20150317_000505	{@st43}ﻯﻮﺘﺴُﻤﻟﺍ{/}
 UI_20150317_000506	{@st43}Funds{/}
-UI_20150317_000507	{@st43}Rate{/}
+UI_20150317_000507	{@st43}ﻝﺪﻌﻣ{/}
 UI_20150317_000508	{@st43}PvP Win/Loss Ratio{/}
-UI_20150317_000509	{@st59}Close{/}
-UI_20150317_000510	{@sti5}Total Purchase Amount : %s{/}
-UI_20150317_000511	{@sti5}Total Amount : %s{/}
-UI_20150317_000512	{@st41b} Purchase
+UI_20150317_000509	{@st59}ﻕﻼﻏﺇ{/}
+UI_20150317_000510	{@sti5}ﺀﺍﺮِﺸﻟﺍ ﺔﻴﻤﻛ ﻉﻮﻤﺠﻣ : %s{/}
+UI_20150317_000511	{@sti5}ﻲﻟﺎﻤﺟﻹﺍ ﻎﻠﺒﻤﻟﺍ : %s{/}
+UI_20150317_000512	{@st41b} ﺀﺍﺮِﺷ
 UI_20150317_000513	{@st43}Gained materials for a craftable item!
 UI_20150317_000514	{@st43}Magnum Opus{/}
-UI_20150317_000515	{@st41}Delete All
+UI_20150317_000515	{@st41}ﻞُﻜﻟﺍ ﻑﺬﺣ
 UI_20150317_000516	{@st42}Pension target {@stx1}(%s required){/}
-UI_20150317_000517	{@st41}Combine
-UI_20150317_000518	{@st43}Quests{/}
-UI_20150317_000519	{@st59b}Quests{nl}{@st59s} - When you are on a new quest, it will be added to the quest tracker. {nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue. {nl} - The arrow on the character's foot leads to the location of your quest. {nl} - If you completed a quest, a 'Return' icon is displayed on the quest tracker. {nl}    (Teleports you to the Quest NPC using the Backspace key or a mouse-click) {nl} - Add or remove quests in the quest tracker by ticking or unticking the box in front of the quest name. {/}
-UI_20150317_000520	{@st41b}In Progress{/}
-UI_20150317_000521	{@st41b}Abandoned{/}
-UI_20150317_000522	{@st43}{s22}Quest Information{/}
-UI_20150317_000523	Mission Complete
-UI_20150317_000524	{@st41}Complete{/}
-UI_20150317_000525	Mission Progress Info
-UI_20150317_000526	{s18}{ol}Quest Information
-UI_20150317_000527	{s16}Time Left
-UI_20150317_000528	Use quest item
-UI_20150317_000529	Quest Hint
-UI_20150317_000530	{@st41}Confirm{/}
-UI_20150317_000531	{@st43}{s22}Quest Completed{/}
-UI_20150317_000532	{@st41b}Complete{/}
-UI_20150317_000533	{@st41}Accept{/}
-UI_20150317_000534	{@st41}Decline{/}
-UI_20150317_000535	{@st44}Go Back{/}
-UI_20150317_000536	Which quest would you like to go back to?
+UI_20150317_000517	{@st41}ﺞﻣﺩ
+UI_20150317_000518	{@st43}ﺕﺎﻤﻬﻣ{/}
+UI_20150317_000519	{@st59b}ﺕﺎﻤﻬﻣ{nl}{@st59s} - When you are on a new quest, it will be added to the quest tracker. {nl} - A main quest is displayed in yellow color, while a subquest is displayed in blue. {nl} - The arrow on the character's foot leads to the location of your quest. {nl} - If you completed a quest, a 'Return' icon is displayed on the quest tracker. {nl}    (Teleports you to the Quest NPC using the Backspace key or a mouse-click) {nl} - Add or remove quests in the quest tracker by ticking or unticking the box in front of the quest name. {/}
+UI_20150317_000520	{@st41b}ﻡُﺪَﻘﺗ ﻲﻓ{/}
+UI_20150317_000521	{@st41b}ﺓﺎﻐﻠُﻣ{/}
+UI_20150317_000522	{@st43}{s22}ﺔﻤﻬﻤﻟﺍ ﺕﺎﻣﻮﻠﻌﻣ{/}
+UI_20150317_000523	ﺖﻠﻤﺘﻛﺃ ﺔﻤﻬﻣ
+UI_20150317_000524	{@st41}ﻡﺎﻤﺗﺇ{/}
+UI_20150317_000525	ﺔﻤﻬﻤﻟﺍ ﻡُﺪﻘﺗ ﺕﺎﻣﻮﻠﻌﻣ
+UI_20150317_000526	{s18}{ol}ﺔﻤﻬﻤﻟﺍ ﺕﺎﻣﻮﻠﻌﻣ
+UI_20150317_000527	{s16}ﻲﻘﺒﺘﻤﻟﺍ ﺖﻗﻮﻟﺍ
+UI_20150317_000528	ﺔﻤﻬﻤﻟﺍ ﺓﺍﺩﺃ ﻞﻤﻌﺘﺳﺇ
+UI_20150317_000529	ﺔﻤﻬﻤﻟﺍ ﺢﻴﻤﻠﺗ
+UI_20150317_000530	{@st41}ﺪﻴﻛﺄﺗ{/}
+UI_20150317_000531	{@st43}{s22}ﺖﻠﻤﺘﻛﺍ ﺔﻤﻬﻣ{/}
+UI_20150317_000532	{@st41b}ﻡﺎﻤﺗﺇ{/}
+UI_20150317_000533	{@st41}ﻖﻓﺍﻭ{/}
+UI_20150317_000534	{@st41}ﺾﻓﺭ{/}
+UI_20150317_000535	{@st44}ﺓﺩﻮﻋ{/}
+UI_20150317_000536	 ﺎﻬﻴﻟﺇ ﺓﺩﻮﻌﻟﺍ ﺩﻮﺗ ﺔﻤﻬﻣ ﻱﺃ?
 UI_20150317_000537	{@st41b}Quest class name{/}
-UI_20150317_000538	{@st59}Expand Slots{/}
-UI_20150317_000539	{@st59}Reduce Slots{/}
+UI_20150317_000538	{@st59}ﺕﺎﻧﺎﺨﻟﺍ ﻊﻴﺳﻮﺗ{/}
+UI_20150317_000539	{@st59}ﺕﺎﻧﺎﺨﻟﺍ ﺺﻴﻠﻘﺗ{/}
 UI_20150317_000540	{@st59}Summon Companion.{/}
-UI_20150317_000541	{@st44}Menu{/}
-UI_20150317_000542	{@st60}Character Selection{/}
-UI_20150317_000543	{@st60}Logout{/}
-UI_20150317_000544	{@st60}Quit Game{/}
-UI_20150317_000545	{@st60}Game Settings{/}
-UI_20150317_000546	{@st60}Go Back{/}
-UI_20150317_000547	{@st41}Skip Tutorial{/}
-UI_20150317_000548	{@st41}Character Selection{/}
-UI_20150317_000549	{@st41}Logout{/}
-UI_20150317_000550	{@st41}Quit Game{/}
-UI_20150317_000551	{@st41}Go Back{/}
+UI_20150317_000541	{@st44}ﺔﻤﺋﺎﻘﻟﺍ{/}
+UI_20150317_000542	{@st60}ﺔﻴﺼﺨﺸﻟﺍ ﺭﺎﻴﺘﺧﺇ{/}
+UI_20150317_000543	{@st60}ﺝﻭﺮﺧ{/}
+UI_20150317_000544	{@st60}ﺔﺒﻌﻠﻟﺍ ﺀﺎﻬﻧﺇ{/}
+UI_20150317_000545	{@st60}ﺔﺒﻌﻠﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ{/}
+UI_20150317_000546	{@st60}ﺓﺩﻮﻋ{/}
+UI_20150317_000547	{@st41}ﻲﻤﻴﻠﻌﺘﻟﺍ ﺞﻣﺂﻧﺮﺒﻟﺍ ﻲﻄﺨﺗ{/}
+UI_20150317_000548	{@st41}ﺔﻴﺼﺨﺸﻟﺍ ﺭﺎﻴﺘﺧﺇ{/}
+UI_20150317_000549	{@st41}ﺝﻭﺮﺧ{/}
+UI_20150317_000550	{@st41}ﺔﺒﻌﻠﻟﺍ ﺀﺎﻬﻧﺇ{/}
+UI_20150317_000551	{@st41}ﺓﺩﻮﻋ{/}
 UI_20150317_000552	{@st43}{s22}Gather for the raid!
 UI_20150317_000553	{@st41b}Monsters are approaching the outskirts of the town castle. Only you can stop them.
-UI_20150317_000554	{@st43}{s22}Game Settings{/}
-UI_20150317_000555	{@sti7}Searching for a raid party...{/}
-UI_20150317_000556	{@st41b}Cancel participation
-UI_20150317_000557	{@st41b}I'll do something about it!
-UI_20150317_000558	{@st41b}I don't think I can help this time...
-UI_20150317_000559	{@sti7}{s24}Select Raid Rewards{/}
-UI_20150317_000560	{@st42b}Remaining time {@st43}%s{@st42b} seconds{/}
+UI_20150317_000554	{@st43}{s22}ﺔﺒﻌﻠﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ{/}
+UI_20150317_000555	{@sti7}ﺓﺭﺎﻏ ﻝﻮﻄﺳﺃ ﻦﻋ ﺚﺤﺒﻳ...{/}
+UI_20150317_000556	{@st41b}ﺔﻛﺭﺎﺸﻤﻟﺍ ﺀﺎﻐﻟﺇ
+UI_20150317_000557	{@st41b}ﺍﺬﻫ ﻝﺎﻴﺣ ﺊﺷ ﻞﻌﻓﺄﺳ ﺎﻧﺃ!
+UI_20150317_000558	{@st41b}ﺓﺮﻤﻟﺍ ﺓﺬﻫ ﺓﺪﻋﺎﺴﻤﻟﺍ ﻊﻴﻄﺘﺳﺍ ﻲﻨﻧﺃ ﻦﺿﺃ ﻻ ﺎﻧﺍ...
+UI_20150317_000559	{@sti7}{s24}ﻝﻮﻄﺳﻷﺍ ﺰﺋﺍﻮﺟ ﺩﺪﺣ{/}
+UI_20150317_000560	{@st42b}ﻲﻘﺒﺘﻤﻟﺍ ﺖﻗﻮﻟﺍ {@st43}%s{@st42b} ﻲﻧﺍﻮﺛ{/}
 UI_20150317_000561	{@st41b}Increase the number of selections
 UI_20150317_000562	{@43b}{s22} No. of times selectable : {@st43}%s{/}
 UI_20150317_000563	shadow_box tentativeremoval
-UI_20150317_000564	{@st43}Ranking{/}
-UI_20150317_000565	{@st59}Close{/}
+UI_20150317_000564	{@st43}ﺐﻴﺗﺮﺘﻟﺍ{/}
+UI_20150317_000565	{@st59}ﻕﻼﻏﺇ{/}
 UI_20150317_000566	{@st41}Monster Kill Top 100{/}
 UI_20150317_000567	{@st41}Damage Top 100{/}
 UI_20150317_000568	{@st41}Money Money Top 100{/}
