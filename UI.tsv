@@ -236,12 +236,12 @@ UI_20150317_000235	ﺔﻴﻟﺎﺤﻟﺍ ﺔﺤﻔﺼﻟﺍ
 UI_20150317_000236	ﺔﻴﻟﺎﺘﻟﺍ ﺔﺤﻔﺼﻟﺍ
 UI_20150317_000237	{@st42}Search ID{/}
 UI_20150317_000238	Enter the ID to search
-UI_20150317_000239	Close the Hall of Fame
+UI_20150317_000239	ﺓﺮﻬُﺸﻟﺍ ﺔﻋﺎﻗ ﻖٍﻠﻏﺃ
 UI_20150317_000240	Enter the ID to search
 UI_20150317_000241	{@st59} ﻁﺎﺸﻨﻟﺍ {/}
 UI_20150317_000242	{@st43}ﺓﺪﻋﺎﺴﻤﻟﺍ ﺔﺤﺋﻻ{/}
 UI_20150317_000243	{@st59}ﻕﻼﻏﺇ{/}
-UI_20150317_000244	{@st59b}ﺓﺪﻋﺎﺴﻤﻟﺍ ﺔﺤﺋﻻ{nl}{@st59s} - If you need help with something, you can always read the Help Topics. {nl} - Select a topic to view more information about it. {/}
+UI_20150317_000244	{@st59b}ﺓﺪﻋﺎﺴﻤﻟﺍ ﺔﺤﺋﻻ{nl}{@st59s} - إذا إحتَجت مُساعدة في شئ, يُمكٍنكَ دائٍماً قراءة مواضيع المُساعدة.ﻪﻨﻋ ﺮﺜﻛﺃ ﺕﺎﻣﻮﻠﻌﻣ ﺓﺪﻫﺎﺸُﻤٍﻟ ﻉﻮﺿﻮﻣ ﺮﺘﺧﺇabout it. {/}
 UI_20150317_000245	{@st43}{s22}ﺓﺪﻋﺎﺴﻣ{/}
 UI_20150317_000246	{@st47_b}{b}ﺓﺪﻋﺎﺴﻤﻟﺍ ﻊﻴﺿﺍﻮﻣ{/}
 UI_20150317_000247	{@st42b}ﺔﻄﻴﺴﺑ ﺓﺪﻋﺎﺴﻣ ﺕﺎﻳﻮﺘﺤﻣ{/}
@@ -255,7 +255,7 @@ UI_20150317_000254	{@st59}ﺀﺎﻐﻟﺇ {/}
 UI_20150317_000255	{@st43}ﻝﺎﻘﺘﻧﺇ{/}
 UI_20150317_000256	{@st59}ﻕﻼﻏﺇ{/}
 UI_20150317_000257	{@st59b}ﻝﺎﻘﺘﻧﺇ{nl}{@st59s} - Allows you to quickly travel to regions you have already visited. {nl} - Feature is activated when two or more warp points are available. {nl} {/}
-UI_20150317_000258	{@st41}Current Location : %s{/}
+UI_20150317_000258	{@st41}ﻲﻟﺎﺤﻟﺍ ﻊﻗﻮﻤﻟﺍ : %s{/}
 UI_20150317_000259	{@st43}{s22}ﻝﺎﻘﺘﻧﺇ{/}
 UI_20150317_000260	{@st41b}ﺔﻘﻄﻨﻤﻟﺍ ﺓﺬﻫ ﻰﻟﺇ ﻙﺮﺤﺘﻟﺍ ﺪﻳﺮﺗ ﻞﻫ?{/}
 UI_20150317_000261	What about Siauliai
@@ -264,22 +264,22 @@ UI_20150317_000263	Intro
 UI_20150317_000264	{@st43}ﺔﺒﻴﻘﺣ{/}
 UI_20150317_000265	{@st59}ﻕﻼﻏﺇ{/}
 UI_20150317_000266	{@st59b}Equipment {nl} {@st59s}- Hair/Costume: Equipment to change a characters appearance. {nl} - Weapon: Can equip one-handed or two-handed weapons {nl} (sub-weapon/shield can be equipped with a one-handed weapon) {nl} - Armor: Top, Bottom, Gloves, Shoes. {nl} - Accessories: Can equip 1 Necklace and 2 Bracelets. {nl} {/}
-UI_20150317_000267	{@st59}Hair Costume 1{/}
-UI_20150317_000268	{@st59}Hair Costume 2{/}
+UI_20150317_000267	{@st59}ﺮﻌﺸﻟﺍ ﺔﻨﻳﺯ 1{/}
+UI_20150317_000268	{@st59}ﺮﻌﺸﻟﺍ ﺔﻨﻳﺯ 2{/}
 UI_20150317_000269	{@st59}ﺓﺩﻼﻗ{/}
-UI_20150317_000270	{@st59}Costume{/}
-UI_20150317_000271	{@st59}Top{/}
+UI_20150317_000270	{@st59}ﻱﺯ{/}
+UI_20150317_000271	{@st59}ﻰﻠﻋﺃ{/}
 UI_20150317_000272	{@st59}ﺕﺍﺯﺎﻔﻗ{/}
-UI_20150317_000273	{@st59}Bottom{/}
-UI_20150317_000274	{@st59}Shoes{/}
-UI_20150317_000275	{@st59}Left hand{/}
-UI_20150317_000276	{@st59}Right hand{/}
-UI_20150317_000277	{@st59}Bracelet 1{/}
-UI_20150317_000278	{@st59}Bracelet 2{/}
-UI_20150317_000279	{@st59}Armband{/}
-UI_20150317_000280	{@st59}Search{/}
-UI_20150317_000281	Weight
-UI_20150317_000282	{@st43}Equipment Buff{/}
+UI_20150317_000273	{@st59}ﻰﻧﺩﺃ{/}
+UI_20150317_000274	{@st59}ﺔﻳﺬﺣﺃ{/}
+UI_20150317_000275	{@st59}ﻯﺮﺴُﻴﻟﺍ ﻉﺍﺭٍﺬﻟﺍ{/}
+UI_20150317_000276	{@st59}ﻰﻨﻤُﻴﻟﺍ ﻉﺍﺭٍﺬﻟﺍ{/}
+UI_20150317_000277	{@st59}ﺭﺍﻮٍﺳ 1{/}
+UI_20150317_000278	{@st59}ﺭﺍﻮٍﺳ 2{/}
+UI_20150317_000279	{@st59}ﻉﺍﺭﺫ ﻂﻳﺮﺷ{/}
+UI_20150317_000280	{@st59}ﺚﺤﺑ{/}
+UI_20150317_000281	ﻥﺯﻮﻟﺍ
+UI_20150317_000282	{@st43}ﺕﺍﺪٍﻌُﻤﻟﺍ ﻑﻮﺑ{/}
 UI_20150317_000283	{@st59}ﻖﻠﻏﺃ{/}
 UI_20150317_000284	{@st42}Available for Buff
 UI_20150317_000285	{@st42}Consume{/}
