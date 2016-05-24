@@ -575,18 +575,18 @@ UI_20150317_000574	{@st41}{s20}Anvil Hit Count :{@st43} %s
 UI_20150317_000575	{@st41} {s20}Price : %s
 UI_20150317_000576	{@st41b}Enhance{/}
 UI_20150317_000577	{@st59}Start Item Enhancement{/}
-UI_20150317_000578	{@st59}Close{/}
+UI_20150317_000578	{@st59}ﻖﻠﻏﺃ{/}
 UI_20150317_000579	{@st41b} Would you like to refine the {@sti9}×%s{/} selected items?{/}
 UI_20150317_000580	{@st43}Enhancement
 UI_20150317_000581	{@st44}Enhance Item{/}
 UI_20150317_000582	{s24}{b}{#000000}Enhancement Complete!
 UI_20150317_000583	{@st41}Enhance Again{/}
-UI_20150317_000584	{@st41}Close{/}
+UI_20150317_000584	{@st41}ﻖﻠﻏﺃ{/}
 UI_20150317_000585	{s18}{ol}{gr gradation1}Repair Equipment{/}
 UI_20150317_000586	Equipped Equipment
 UI_20150317_000587	Equipment in the Inventory
 UI_20150317_000588	{Gr gradation1}Select All{/}
-UI_20150317_000589	Select All
+UI_20150317_000589	ﻞﻜﻟﺍ ﺪﻳﺪﺤﺗ
 UI_20150317_000590	{Gr gradation1}Repair{/}
 UI_20150317_000591	{@st43}Repair{/}
 UI_20150317_000592	List of repairable items
@@ -601,7 +601,7 @@ UI_20150317_000600	{@st44}Reinforce the Item{/}
 UI_20150317_000601	{@st42}Reinforce{/}
 UI_20150317_000602	{@st59}Reinforce with the current settings{/}
 UI_20150317_000603	{@st59}Do not Reinforce{/}
-UI_20150317_000604	{@st44}Resume{/}
+UI_20150317_000604	{@st44}ﻒﻨﺌﺘﺳﺍ{/}
 UI_20150317_000605	{@st41b}You have become {/}{s20}{#cc6600}{ol} incapacitated{/}{@st41b}{/}
 UI_20150317_000606	{@st41b}Respawn at the nearest Revival Point{/}
 UI_20150317_000607	{@st41b}Respawn here (requires %s iCoins) {/}
@@ -618,22 +618,22 @@ UI_20150317_000617	You cannot obtain the item because your inventory is full{nl}
 UI_20150317_000618	{@st44}Set Item acquired!{/}
 UI_20150317_000619	Please select an item
 UI_20150317_000620	{@st59b} shop {nl} {@st59s} - Right-click and input the quantity to purchase multiple {nl} - Double right-click to sell the entire stack of item {/}
-UI_20150317_000621	{@st59}Close{/}
-UI_20150317_000622	{@st59}First Page{/}
-UI_20150317_000623	{@st59}Next Page{/}
-UI_20150317_000624	{@st59}Last Page{/}
-UI_20150317_000625	{@st41b}Reset{/}
+UI_20150317_000621	{@st59}ﻖﻠﻏﺃ{/}
+UI_20150317_000622	{@st59}ﻰﻟﻭﻷﺍ ﺔﺤﻔﺼﻟﺍ{/}
+UI_20150317_000623	{@st59}ﺔﻴﻟﺎﺘﻟﺍ ﺔﺤﻔﺼﻟﺍ{/}
+UI_20150317_000624	{@st59}ﺓﺮﻴﺧﻷﺍ ﺔﺤﻔﺼﻟﺍ{/}
+UI_20150317_000625	{@st41b}ﻦﻴﻴﻌﺗ ﺓﺩﺎﻋﺇ{/}
 UI_20150317_000626	{@st59}Reset Shopping Cart{/}
-UI_20150317_000627	{@st41b}Confirm{/}
+UI_20150317_000627	{@st41b}ﺪﻴﻛﺄﺗ{/}
 UI_20150317_000628	{@st59}Confirm Transaction{/}
 UI_20150317_000629	{@st43}Shop{/}
 UI_20150317_000630	{@st41b}Items Bought{/}
 UI_20150317_000631	{@st41b}Items Sold{/}
-UI_20150317_000632	{@st41b}Price{/}
+UI_20150317_000632	{@st41b}ﺮﻌﺴﻟﺍ{/}
 UI_20150317_000633	{@st41b}Balance{/}
 UI_20150317_000634	{@st41b}My Sold Items{/}
 UI_20150317_000635	{@st41}Empty slots{/}
-UI_20150317_000636	{@st43}Total{/}
+UI_20150317_000636	{@st43}ﻉﻮﻤﺠﻤﻟﺍ{/}
 UI_20150317_000637	{@st41}Settle Transaction{/}
 UI_20150317_000638	{@st41}After Transaction{/}
 UI_20150317_000639	{@st41}Items purchased{/}
@@ -669,7 +669,7 @@ UI_20150317_000668	{@st41b}1. Menu{/}
 UI_20150317_000669	{@st41}Visit{/}
 UI_20150317_000670	{@st59}Visit MyPage{/}
 UI_20150317_000671	{@st41}Sell{/}
-UI_20150317_000672	{@st59}Sell Item{/}
+UI_20150317_000672	{@st59}ﺮﺼﻨﻋ ﻊﻴﺑ{/}
 UI_20150317_000673	{@st43}Living{/}
 UI_20150317_000674	{@st59}Close{/}
 UI_20150317_000675	{@st41}View All{/}
@@ -709,8 +709,8 @@ UI_20150317_000708	{@st41b}{#f0dcaa}Remaining Status Points ? {@st46}%s
 UI_20150317_000709	{@st59b}My Information{nl}{@st59s}- Status : Use the points you earned by leveling up to enhance the 5 status attributes. {nl}- Information : This is information about your character based on your current status and equipment. {nl}- Title : Titles can be earned by accomplishing achievements. {nl} {/}
 UI_20150317_000710	{@st41b}Info{/}
 UI_20150317_000711	{@st41b}Title{/}
-UI_20150317_000712	Show Class
-UI_20150317_000713	Show Character Name
+UI_20150317_000712	ﺔﻘﺒﻄﻟﺍ ﺽﺮﻋ
+UI_20150317_000713	ﺔﻴﺼﺨﺸﻟﺍ ﻢﺳﺍ ﺽﺮﻋ
 UI_20150317_000714	{@st59}Change Character Name{/}
 UI_20150317_000715	{@st41b}Apply
 UI_20150317_000716	{@st59}Apply{/}
@@ -881,7 +881,7 @@ UI_20150317_000880	{@st56}تامس{/}
 UI_20150317_000881	{@st56}Value{/}
 UI_20150317_000882	{@st42}ىوتحم{/}
 UI_20150317_000883	{@st41}Undo{/}
-UI_20150317_000884	{@st41}Save all{/}
+UI_20150317_000884	{@st41}ﻞﻜﻟﺍ ﻆﻔﺣ{/}
 UI_20150317_000885	{@st41}Open XML{/}
 UI_20150317_000886	{@st42b}Fixed Skill : 0{/}
 UI_20150317_000887	{@st42b}Fixed skill : %s{/}
@@ -970,8 +970,8 @@ UI_20150317_000969	{@St43b}Character Rotation{/}
 UI_20150317_000970	{@st43}Character Name{/}
 UI_20150317_000971	Enter a name{@st59} {/}
 UI_20150317_000972	{@St43b}Choose Gender{/}
-UI_20150317_000973	{@St59}Female{/}
-UI_20150317_000974	{@St59}Male{/}
+UI_20150317_000973	{@St59}ﻰﺜﻧﺃ{/}
+UI_20150317_000974	{@St59}ﺮﻛﺫ{/}
 UI_20150317_000975	{@st43b}Choose Hairstyle{/}
 UI_20150317_000976	{@st59}Hairstyle 1{/}
 UI_20150317_000977	{@st59}Hairstyle 2{/}
