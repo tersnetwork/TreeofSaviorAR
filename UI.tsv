@@ -823,10 +823,10 @@ UI_20150317_000822	{@st42b} Check XAC, texture path{/}
 UI_20150317_000823	{@st42b}Performance ON/OFF{/}
 UI_20150317_000824	Dialog list
 UI_20150317_000825	ﺚﺤﺑ
-UI_20150317_000826	{@st41}Preview{/}
+UI_20150317_000826	{@st41}ﺽﺍﺮﻌﺘﺳﺍ{/}
 UI_20150317_000827	{@st41}Off{/}
-UI_20150317_000828	{@st41}Remove{/}
-UI_20150317_000829	{@st41}Save all{/}
+UI_20150317_000828	{@st41}ﻑﺬﺣ{/}
+UI_20150317_000829	{@st41}ﻞﻜﻟﺍ ﻆﻔﺣ{/}
 UI_20150317_000830	{@st41}Apply picture{/}
 UI_20150317_000831	{#FFFFFF}{ds}Select Event
 UI_20150317_000832	{#FFFFFF}{ds}Edit Event
